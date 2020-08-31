@@ -24,7 +24,6 @@ public class App {
     private static final String CODEPOINT_START = "startCodePoint";
     private static final String CODEPOINT_END = "endCodePoint";
     private static final String REGEXP_RANGE_PATTERN_UNICODE = "regexpRangePatternUnicode";
-    private static final String REGEXP_RANGE_PATTERN_GRAPH = "regexpRangePatternGraph";
 
     private static final String FS = "\t";
     private static final String RS = "\n";
@@ -242,12 +241,6 @@ public class App {
                 unicodeSet._generatePattern(sb,true);
 
                 detailMap.put(REGEXP_RANGE_PATTERN_UNICODE,Arrays.asList(sb.toString()));
-
-                sb = new StringBuffer();
-
-                unicodeSet._generatePattern(sb,false);
-
-                detailMap.put(REGEXP_RANGE_PATTERN_GRAPH,Arrays.asList(sb.toString()));
 
                 summaryList.add(detailMap);
 
