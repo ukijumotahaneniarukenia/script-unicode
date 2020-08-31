@@ -17,7 +17,7 @@ public class App {
 
     private static final String SIGNAL_HANDLE_INT = "INT";
 
-    private static final String SPLiTOR = "";
+    private static final String SPLITOR = "";
     private static final String SEPARATOR = " ";
     private static final String FS = "\t";
     private static final String RS = "\n";
@@ -217,7 +217,7 @@ public class App {
 
             if(list.size() == 1){
                 //割れない場合はグラム化
-                list = new ArrayList<>(Arrays.asList(liz.get(i).split(SPLiTOR)));
+                list = new ArrayList<>(Arrays.asList(liz.get(i).split(SPLITOR)));
             }
 
             rt.put( i + 1 ,list);
