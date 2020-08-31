@@ -1,11 +1,9 @@
 国ごとに使用する言語のユニコード正規表現を標準出力に出力するコマンド
 
-
-
 ダウンロード
 
 ```
-curl -fsSLO https://github.com/ukijumotahaneniarukenia/genunireg/releases/download/1-0-0/genunireg-1.0.0-SNAPSHOT-jar-with-dependencies.jar
+curl -fsSLO https://github.com/ukijumotahaneniarukenia/genunireg/releases/download/1-0-0/uni-locale-regex-info-1-0-0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
 
@@ -14,7 +12,7 @@ curl -fsSLO https://github.com/ukijumotahaneniarukenia/genunireg/releases/downlo
 
 
 ```
-$ java -jar genunireg-1.0.0-SNAPSHOT-jar-with-dependencies.jar
+$ java -jar uni-locale-regex-info-1-0-0-SNAPSHOT-jar-with-dependencies.jar
 Usageだよーん
 
 LOCALE_LIST:
@@ -23,31 +21,10 @@ af af_NA af_ZA agq agq_CM ak ak_GH am am_ET ar ar_001 ar_AE ar_BH ar_DJ ar_DZ ar
 
 
 
-java -jar genunireg-X-X-X-SNAPSHOT.jar --help af su az_Cyrl_AZ
+java -jar  uni-locale-regex-info-1-0-0-SNAPSHOT-jar-with-dependencies.jar --help af zh
 
-java -jar genunireg-X-X-X-SNAPSHOT.jar --help zh
+java -jar  uni-locale-regex-info-1-0-0-SNAPSHOT-jar-with-dependencies.jar --help zh
 
-java -jar genunireg-X-X-X-SNAPSHOT.jar af su az_Cyrl_AZ br_FR zh ja az ast
+java -jar  uni-locale-regex-info-1-0-0-SNAPSHOT-jar-with-dependencies.jar af su az_Cyrl_AZ br_FR zh ja az ast
 
-
-```
-
-CMD
-
-```
-$ java -jar genunireg-1.0.0-SNAPSHOT-jar-with-dependencies.jar  af su az_Cyrl_AZ br_FR zh ja az ast
-```
-
-OUT
-
-```
-LocaleName	DisplayName	DisplayNameWithDialect	PatternClass	RegexPattern
-af	アフリカーンス語	アフリカーンス語	[[:Latn:]]	[A-Za-z\u00AA\u00BA\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02B8\u02E0-\u02E4\u1D00-\u1D25\u1D2C-\u1D5C\u1D62-\u1D65\u1D6B-\u1D77\u1D79-\u1DBE\u1E00-\u1EFF\u2071\u207F\u2090-\u209C\u212A\u212B\u2132\u214E\u2160-\u2188\u2C60-\u2C7F\uA722-\uA787\uA78B-\uA7BF\uA7C2-\uA7CA\uA7F5-\uA7FF\uAB30-\uAB5A\uAB5C-\uAB64\uAB66-\uAB69\uFB00-\uFB06\uFF21-\uFF3A\uFF41-\uFF5A]
-su	スンダ語	スンダ語	[[:Latn:]]	[A-Za-z\u00AA\u00BA\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02B8\u02E0-\u02E4\u1D00-\u1D25\u1D2C-\u1D5C\u1D62-\u1D65\u1D6B-\u1D77\u1D79-\u1DBE\u1E00-\u1EFF\u2071\u207F\u2090-\u209C\u212A\u212B\u2132\u214E\u2160-\u2188\u2C60-\u2C7F\uA722-\uA787\uA78B-\uA7BF\uA7C2-\uA7CA\uA7F5-\uA7FF\uAB30-\uAB5A\uAB5C-\uAB64\uAB66-\uAB69\uFB00-\uFB06\uFF21-\uFF3A\uFF41-\uFF5A]
-az_Cyrl_AZ	アゼルバイジャン語(キリル文字、アゼルバイジャン)	アゼルバイジャン語(キリル文字、アゼルバイジャン)	[[:Cyrl:]]	[\u0400-\u0484\u0487-\u052F\u1C80-\u1C88\u1D2B\u1D78\u2DE0-\u2DFF\uA640-\uA69F\uFE2E\uFE2F]
-br_FR	ブルトン語(フランス)	ブルトン語(フランス)	[[:Latn:]]	[A-Za-z\u00AA\u00BA\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02B8\u02E0-\u02E4\u1D00-\u1D25\u1D2C-\u1D5C\u1D62-\u1D65\u1D6B-\u1D77\u1D79-\u1DBE\u1E00-\u1EFF\u2071\u207F\u2090-\u209C\u212A\u212B\u2132\u214E\u2160-\u2188\u2C60-\u2C7F\uA722-\uA787\uA78B-\uA7BF\uA7C2-\uA7CA\uA7F5-\uA7FF\uAB30-\uAB5A\uAB5C-\uAB64\uAB66-\uAB69\uFB00-\uFB06\uFF21-\uFF3A\uFF41-\uFF5A]
-zh	中国語	中国語	[[:Hani:]]	[\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u3005\u3007\u3021-\u3029\u3038-\u303B\u3400-\u4DBF\u4E00-\u9FFC\uF900-\uFA6D\uFA70-\uFAD9\U00016FF0\U00016FF1\U00020000-\U0002A6DD\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002CEB0-\U0002EBE0\U0002F800-\U0002FA1D\U00030000-\U0003134A]
-ja	日本語	日本語	[[:Kana:]+[:Hira:]+[:Hani:]]	[\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u3005\u3007\u3021-\u3029\u3038-\u303B\u3041-\u3096\u309D-\u309F\u30A1-\u30FA\u30FD-\u30FF\u31F0-\u31FF\u32D0-\u32FE\u3300-\u3357\u3400-\u4DBF\u4E00-\u9FFC\uF900-\uFA6D\uFA70-\uFAD9\uFF66-\uFF6F\uFF71-\uFF9D\U00016FF0\U00016FF1\U0001B000-\U0001B11E\U0001B150-\U0001B152\U0001B164-\U0001B167\U0001F200\U00020000-\U0002A6DD\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002CEB0-\U0002EBE0\U0002F800-\U0002FA1D\U00030000-\U0003134A]
-az	アゼルバイジャン語	アゼルバイジャン語	[[:Latn:]]	[A-Za-z\u00AA\u00BA\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02B8\u02E0-\u02E4\u1D00-\u1D25\u1D2C-\u1D5C\u1D62-\u1D65\u1D6B-\u1D77\u1D79-\u1DBE\u1E00-\u1EFF\u2071\u207F\u2090-\u209C\u212A\u212B\u2132\u214E\u2160-\u2188\u2C60-\u2C7F\uA722-\uA787\uA78B-\uA7BF\uA7C2-\uA7CA\uA7F5-\uA7FF\uAB30-\uAB5A\uAB5C-\uAB64\uAB66-\uAB69\uFB00-\uFB06\uFF21-\uFF3A\uFF41-\uFF5A]
-ast	アストゥリアス語	アストゥリアス語	[[:Latn:]]	[A-Za-z\u00AA\u00BA\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02B8\u02E0-\u02E4\u1D00-\u1D25\u1D2C-\u1D5C\u1D62-\u1D65\u1D6B-\u1D77\u1D79-\u1DBE\u1E00-\u1EFF\u2071\u207F\u2090-\u209C\u212A\u212B\u2132\u214E\u2160-\u2188\u2C60-\u2C7F\uA722-\uA787\uA78B-\uA7BF\uA7C2-\uA7CA\uA7F5-\uA7FF\uAB30-\uAB5A\uAB5C-\uAB64\uAB66-\uAB69\uFB00-\uFB06\uFF21-\uFF3A\uFF41-\uFF5A]
 ```
