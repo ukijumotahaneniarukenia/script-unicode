@@ -5,14 +5,16 @@ jqとコラボする予定
 ダウンロード
 
 ```
-curl -fsSLO https://github.com/ukijumotahaneniarukenia/gengengen/releases/download/1-0-0/gengengen-1.0.0-SNAPSHOT-jar-with-dependencies.jar
+PROGRAM_NAME=uni-property-info
+curl -fsSLO https://github.com/ukijumotahaneniarukenia/$PROGRAM_NAME/releases/download/1-0-0/$PROGRAM_NAME-1-0-0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
 使い方
 
 ```
-$ java -jar gengengen-1.0.0-SNAPSHOT-jar-with-dependencies.jar
+$ java -jar uni-property-info-1-0-0-SNAPSHOT-jar-with-dependencies.jar
 Usageだよーん
+
 PROPERTY-LIST:
 
 --bidi-class
@@ -34,17 +36,11 @@ PROPERTY-LIST:
 --sentence-break
 --word-break
 
-java -jar gengengen-X-X-X-SNAPSHOT.jar --help
+java -jar  uni-property-info-1-0-0-SNAPSHOT-jar-with-dependencies.jar --help
 
-java -jar gengengen-X-X-X-SNAPSHOT.jar --east-asian-width --grapheme-cluster-break
+java -jar  uni-property-info-1-0-0-SNAPSHOT-jar-with-dependencies.jar --east-asian-width --grapheme-cluster-break
 
-java -jar gengengen-X-X-X-SNAPSHOT.jar --decomposition-type
-```
-
-
-```
-$ java -jar gengengen-1.0.0-SNAPSHOT-jar-with-dependencies.jar --numeric-type >numeric-type.tsv
+java -jar  uni-property-info-1-0-0-SNAPSHOT-jar-with-dependencies.jar --decomposition-type
 
 
-$ java -jar gengengen-1.0.0-SNAPSHOT-jar-with-dependencies.jar --decomposition-type >decomposition-type.tsv
 ```
