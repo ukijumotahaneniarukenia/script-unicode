@@ -106,7 +106,7 @@ public class App {
                 PROGRAM_CMD + SEPARATOR + PROGRAM_NAME + PROGRAM_VERSION + PROGRAM_SUFFIX + SEPARATOR + OPTION_HELP + SEPARATOR + "zh" +
                 RS +
                 RS +
-                PROGRAM_CMD + SEPARATOR + PROGRAM_NAME + PROGRAM_VERSION + PROGRAM_SUFFIX + SEPARATOR + OPTION_HELP + SEPARATOR + "af su az_Cyrl_AZ br_FR zh ja az ast" +
+                PROGRAM_CMD + SEPARATOR + PROGRAM_NAME + PROGRAM_VERSION + PROGRAM_SUFFIX + SEPARATOR + "af su az_Cyrl_AZ br_FR zh ja az ast" +
                 RS
         );
         System.exit(0);
