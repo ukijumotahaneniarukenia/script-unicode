@@ -47,6 +47,12 @@ public class App {
         add(UNICODE_GRAPH_LIST);
     }};
 
+    private static Set<Integer> EXCLUDE_CODEPOINT_LIST = new LinkedHashSet(){{
+        add(157);
+        add(158);
+        add(159);
+    }};
+
     private static void Usage(){
         System.out.println("Usageだよーん" +
                 RS +
@@ -57,14 +63,18 @@ public class App {
         System.exit(0);
     }
 
+    private static boolean excludeCodePoint(Integer codePoint){
+        return EXCLUDE_CODEPOINT_LIST.stream().noneMatch(excludeCodePoint->excludeCodePoint.equals(codePoint));
+    }
+
     private static Set<Integer> genUnicodeCodePoint(Integer s,Integer e){
         Set<Integer> codePointList = new LinkedHashSet<>();
-        Set<Integer> lowerCodePointList = IntStream.rangeClosed(s,e).boxed().filter(codePoint -> codePoint < (int) Character.MIN_HIGH_SURROGATE).collect(Collectors.toSet());
+        Set<Integer> lowerLeftCodePointList = IntStream.rangeClosed(s,e).boxed().filter(codePoint->excludeCodePoint(codePoint)).filter(codePoint -> codePoint < (int) Character.MIN_HIGH_SURROGATE).collect(Collectors.toSet());
+        Set<Integer> lowerRightCodePointList = IntStream.rangeClosed(EXCLUDE_CODEPOINT_LIST.stream().max(Integer::compareTo).get() + 1,e).boxed().filter(codePoint->excludeCodePoint(codePoint)).filter(codePoint -> codePoint < (int) Character.MIN_HIGH_SURROGATE).collect(Collectors.toSet());
         Set<Integer> upperCodePointList = IntStream.rangeClosed(s,e).boxed().filter(codePoint -> codePoint > (int) Character.MAX_HIGH_SURROGATE).collect(Collectors.toSet());
-        Set<Integer> poperCodePointList = IntStream.rangeClosed(s,e).boxed().filter(codePoint -> codePoint < 160).collect(Collectors.toSet());
-        codePointList.addAll(lowerCodePointList);
+        codePointList.addAll(lowerLeftCodePointList);
+        codePointList.addAll(lowerRightCodePointList);
         codePointList.addAll(upperCodePointList);
-        codePointList.addAll(poperCodePointList);
         return codePointList;
     }
 
@@ -141,5 +151,6 @@ public class App {
                 System.out.println();
             }
         }
+        System.err.println("SkipCodePointList:" + EXCLUDE_CODEPOINT_LIST.stream().map(excludeCodePoint->String.valueOf(excludeCodePoint)).collect(Collectors.joining(SEPARATOR)));
    }
 }
