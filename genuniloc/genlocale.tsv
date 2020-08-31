@@ -1,0 +1,783 @@
+BaseName	CharacterOrientation	Country	DisplayCountry	DisplayLanguage	DisplayLanguageWithDialect	DisplayName	DisplayNameWithDialect	DisplayScript	DisplayScriptInContext	DisplayVariant	ISO3Country	ISO3Language	Language	LineOrientation	Name	Script	Variant
+af	left-to-right	-	-	アフリカーンス語	アフリカーンス語	アフリカーンス語	アフリカーンス語	-	-	-	-	afr	af	top-to-bottom	af	-	-
+af_NA	left-to-right	NA	ナミビア	アフリカーンス語	af_NA	アフリカーンス語 (ナミビア)	アフリカーンス語 (ナミビア)	-	-	-	NAM	afr	af	top-to-bottom	af_NA	-	-
+af_ZA	left-to-right	ZA	南アフリカ	アフリカーンス語	af_ZA	アフリカーンス語 (南アフリカ)	アフリカーンス語 (南アフリカ)	-	-	-	ZAF	afr	af	top-to-bottom	af_ZA	-	-
+agq	left-to-right	-	-	アゲム語	アゲム語	アゲム語	アゲム語	-	-	-	-	agq	agq	top-to-bottom	agq	-	-
+agq_CM	left-to-right	CM	カメルーン	アゲム語	agq_CM	アゲム語 (カメルーン)	アゲム語 (カメルーン)	-	-	-	CMR	agq	agq	top-to-bottom	agq_CM	-	-
+ak	left-to-right	-	-	アカン語	アカン語	アカン語	アカン語	-	-	-	-	aka	ak	top-to-bottom	ak	-	-
+ak_GH	left-to-right	GH	ガーナ	アカン語	ak_GH	アカン語 (ガーナ)	アカン語 (ガーナ)	-	-	-	GHA	aka	ak	top-to-bottom	ak_GH	-	-
+am	left-to-right	-	-	アムハラ語	アムハラ語	アムハラ語	アムハラ語	-	-	-	-	amh	am	top-to-bottom	am	-	-
+am_ET	left-to-right	ET	エチオピア	アムハラ語	am_ET	アムハラ語 (エチオピア)	アムハラ語 (エチオピア)	-	-	-	ETH	amh	am	top-to-bottom	am_ET	-	-
+ar	right-to-left	-	-	アラビア語	アラビア語	アラビア語	アラビア語	-	-	-	-	ara	ar	top-to-bottom	ar	-	-
+ar_001	right-to-left	001	世界	アラビア語	ar_001	アラビア語 (世界)	現代標準アラビア語	-	-	-	-	ara	ar	top-to-bottom	ar_001	-	-
+ar_AE	right-to-left	AE	アラブ首長国連邦	アラビア語	ar_AE	アラビア語 (アラブ首長国連邦)	アラビア語 (アラブ首長国連邦)	-	-	-	ARE	ara	ar	top-to-bottom	ar_AE	-	-
+ar_BH	right-to-left	BH	バーレーン	アラビア語	ar_BH	アラビア語 (バーレーン)	アラビア語 (バーレーン)	-	-	-	BHR	ara	ar	top-to-bottom	ar_BH	-	-
+ar_DJ	right-to-left	DJ	ジブチ	アラビア語	ar_DJ	アラビア語 (ジブチ)	アラビア語 (ジブチ)	-	-	-	DJI	ara	ar	top-to-bottom	ar_DJ	-	-
+ar_DZ	right-to-left	DZ	アルジェリア	アラビア語	ar_DZ	アラビア語 (アルジェリア)	アラビア語 (アルジェリア)	-	-	-	DZA	ara	ar	top-to-bottom	ar_DZ	-	-
+ar_EG	right-to-left	EG	エジプト	アラビア語	ar_EG	アラビア語 (エジプト)	アラビア語 (エジプト)	-	-	-	EGY	ara	ar	top-to-bottom	ar_EG	-	-
+ar_EH	right-to-left	EH	西サハラ	アラビア語	ar_EH	アラビア語 (西サハラ)	アラビア語 (西サハラ)	-	-	-	ESH	ara	ar	top-to-bottom	ar_EH	-	-
+ar_ER	right-to-left	ER	エリトリア	アラビア語	ar_ER	アラビア語 (エリトリア)	アラビア語 (エリトリア)	-	-	-	ERI	ara	ar	top-to-bottom	ar_ER	-	-
+ar_IL	right-to-left	IL	イスラエル	アラビア語	ar_IL	アラビア語 (イスラエル)	アラビア語 (イスラエル)	-	-	-	ISR	ara	ar	top-to-bottom	ar_IL	-	-
+ar_IQ	right-to-left	IQ	イラク	アラビア語	ar_IQ	アラビア語 (イラク)	アラビア語 (イラク)	-	-	-	IRQ	ara	ar	top-to-bottom	ar_IQ	-	-
+ar_JO	right-to-left	JO	ヨルダン	アラビア語	ar_JO	アラビア語 (ヨルダン)	アラビア語 (ヨルダン)	-	-	-	JOR	ara	ar	top-to-bottom	ar_JO	-	-
+ar_KM	right-to-left	KM	コモロ	アラビア語	ar_KM	アラビア語 (コモロ)	アラビア語 (コモロ)	-	-	-	COM	ara	ar	top-to-bottom	ar_KM	-	-
+ar_KW	right-to-left	KW	クウェート	アラビア語	ar_KW	アラビア語 (クウェート)	アラビア語 (クウェート)	-	-	-	KWT	ara	ar	top-to-bottom	ar_KW	-	-
+ar_LB	right-to-left	LB	レバノン	アラビア語	ar_LB	アラビア語 (レバノン)	アラビア語 (レバノン)	-	-	-	LBN	ara	ar	top-to-bottom	ar_LB	-	-
+ar_LY	right-to-left	LY	リビア	アラビア語	ar_LY	アラビア語 (リビア)	アラビア語 (リビア)	-	-	-	LBY	ara	ar	top-to-bottom	ar_LY	-	-
+ar_MA	right-to-left	MA	モロッコ	アラビア語	ar_MA	アラビア語 (モロッコ)	アラビア語 (モロッコ)	-	-	-	MAR	ara	ar	top-to-bottom	ar_MA	-	-
+ar_MR	right-to-left	MR	モーリタニア	アラビア語	ar_MR	アラビア語 (モーリタニア)	アラビア語 (モーリタニア)	-	-	-	MRT	ara	ar	top-to-bottom	ar_MR	-	-
+ar_OM	right-to-left	OM	オマーン	アラビア語	ar_OM	アラビア語 (オマーン)	アラビア語 (オマーン)	-	-	-	OMN	ara	ar	top-to-bottom	ar_OM	-	-
+ar_PS	right-to-left	PS	パレスチナ自治区	アラビア語	ar_PS	アラビア語 (パレスチナ自治区)	アラビア語 (パレスチナ自治区)	-	-	-	PSE	ara	ar	top-to-bottom	ar_PS	-	-
+ar_QA	right-to-left	QA	カタール	アラビア語	ar_QA	アラビア語 (カタール)	アラビア語 (カタール)	-	-	-	QAT	ara	ar	top-to-bottom	ar_QA	-	-
+ar_SA	right-to-left	SA	サウジアラビア	アラビア語	ar_SA	アラビア語 (サウジアラビア)	アラビア語 (サウジアラビア)	-	-	-	SAU	ara	ar	top-to-bottom	ar_SA	-	-
+ar_SD	right-to-left	SD	スーダン	アラビア語	ar_SD	アラビア語 (スーダン)	アラビア語 (スーダン)	-	-	-	SDN	ara	ar	top-to-bottom	ar_SD	-	-
+ar_SO	right-to-left	SO	ソマリア	アラビア語	ar_SO	アラビア語 (ソマリア)	アラビア語 (ソマリア)	-	-	-	SOM	ara	ar	top-to-bottom	ar_SO	-	-
+ar_SS	right-to-left	SS	南スーダン	アラビア語	ar_SS	アラビア語 (南スーダン)	アラビア語 (南スーダン)	-	-	-	SSD	ara	ar	top-to-bottom	ar_SS	-	-
+ar_SY	right-to-left	SY	シリア	アラビア語	ar_SY	アラビア語 (シリア)	アラビア語 (シリア)	-	-	-	SYR	ara	ar	top-to-bottom	ar_SY	-	-
+ar_TD	right-to-left	TD	チャド	アラビア語	ar_TD	アラビア語 (チャド)	アラビア語 (チャド)	-	-	-	TCD	ara	ar	top-to-bottom	ar_TD	-	-
+ar_TN	right-to-left	TN	チュニジア	アラビア語	ar_TN	アラビア語 (チュニジア)	アラビア語 (チュニジア)	-	-	-	TUN	ara	ar	top-to-bottom	ar_TN	-	-
+ar_YE	right-to-left	YE	イエメン	アラビア語	ar_YE	アラビア語 (イエメン)	アラビア語 (イエメン)	-	-	-	YEM	ara	ar	top-to-bottom	ar_YE	-	-
+as	left-to-right	-	-	アッサム語	アッサム語	アッサム語	アッサム語	-	-	-	-	asm	as	top-to-bottom	as	-	-
+as_IN	left-to-right	IN	インド	アッサム語	as_IN	アッサム語 (インド)	アッサム語 (インド)	-	-	-	IND	asm	as	top-to-bottom	as_IN	-	-
+asa	left-to-right	-	-	アス語	アス語	アス語	アス語	-	-	-	-	asa	asa	top-to-bottom	asa	-	-
+asa_TZ	left-to-right	TZ	タンザニア	アス語	asa_TZ	アス語 (タンザニア)	アス語 (タンザニア)	-	-	-	TZA	asa	asa	top-to-bottom	asa_TZ	-	-
+ast	left-to-right	-	-	アストゥリアス語	アストゥリアス語	アストゥリアス語	アストゥリアス語	-	-	-	-	ast	ast	top-to-bottom	ast	-	-
+ast_ES	left-to-right	ES	スペイン	アストゥリアス語	ast_ES	アストゥリアス語 (スペイン)	アストゥリアス語 (スペイン)	-	-	-	ESP	ast	ast	top-to-bottom	ast_ES	-	-
+az	left-to-right	-	-	アゼルバイジャン語	アゼルバイジャン語	アゼルバイジャン語	アゼルバイジャン語	-	-	-	-	aze	az	top-to-bottom	az	-	-
+az_Cyrl	left-to-right	-	-	アゼルバイジャン語	az_Cyrl	アゼルバイジャン語 (キリル文字)	アゼルバイジャン語 (キリル文字)	キリル文字	キリル文字	-	-	aze	az	top-to-bottom	az_Cyrl	Cyrl	-
+az_Cyrl_AZ	left-to-right	AZ	アゼルバイジャン	アゼルバイジャン語	az_Cyrl_AZ	アゼルバイジャン語 (キリル文字、アゼルバイジャン)	アゼルバイジャン語 (キリル文字、アゼルバイジャン)	キリル文字	キリル文字	-	AZE	aze	az	top-to-bottom	az_Cyrl_AZ	Cyrl	-
+az_Latn	left-to-right	-	-	アゼルバイジャン語	az_Latn	アゼルバイジャン語 (ラテン文字)	アゼルバイジャン語 (ラテン文字)	ラテン文字	ラテン文字	-	-	aze	az	top-to-bottom	az_Latn	Latn	-
+az_Latn_AZ	left-to-right	AZ	アゼルバイジャン	アゼルバイジャン語	az_Latn_AZ	アゼルバイジャン語 (ラテン文字、アゼルバイジャン)	アゼルバイジャン語 (ラテン文字、アゼルバイジャン)	ラテン文字	ラテン文字	-	AZE	aze	az	top-to-bottom	az_Latn_AZ	Latn	-
+bas	left-to-right	-	-	バサ語	バサ語	バサ語	バサ語	-	-	-	-	bas	bas	top-to-bottom	bas	-	-
+bas_CM	left-to-right	CM	カメルーン	バサ語	bas_CM	バサ語 (カメルーン)	バサ語 (カメルーン)	-	-	-	CMR	bas	bas	top-to-bottom	bas_CM	-	-
+be	left-to-right	-	-	ベラルーシ語	ベラルーシ語	ベラルーシ語	ベラルーシ語	-	-	-	-	bel	be	top-to-bottom	be	-	-
+be_BY	left-to-right	BY	ベラルーシ	ベラルーシ語	be_BY	ベラルーシ語 (ベラルーシ)	ベラルーシ語 (ベラルーシ)	-	-	-	BLR	bel	be	top-to-bottom	be_BY	-	-
+bem	left-to-right	-	-	ベンバ語	ベンバ語	ベンバ語	ベンバ語	-	-	-	-	bem	bem	top-to-bottom	bem	-	-
+bem_ZM	left-to-right	ZM	ザンビア	ベンバ語	bem_ZM	ベンバ語 (ザンビア)	ベンバ語 (ザンビア)	-	-	-	ZMB	bem	bem	top-to-bottom	bem_ZM	-	-
+bez	left-to-right	-	-	ベナ語	ベナ語	ベナ語	ベナ語	-	-	-	-	bez	bez	top-to-bottom	bez	-	-
+bez_TZ	left-to-right	TZ	タンザニア	ベナ語	bez_TZ	ベナ語 (タンザニア)	ベナ語 (タンザニア)	-	-	-	TZA	bez	bez	top-to-bottom	bez_TZ	-	-
+bg	left-to-right	-	-	ブルガリア語	ブルガリア語	ブルガリア語	ブルガリア語	-	-	-	-	bul	bg	top-to-bottom	bg	-	-
+bg_BG	left-to-right	BG	ブルガリア	ブルガリア語	bg_BG	ブルガリア語 (ブルガリア)	ブルガリア語 (ブルガリア)	-	-	-	BGR	bul	bg	top-to-bottom	bg_BG	-	-
+bm	left-to-right	-	-	バンバラ語	バンバラ語	バンバラ語	バンバラ語	-	-	-	-	bam	bm	top-to-bottom	bm	-	-
+bm_ML	left-to-right	ML	マリ	バンバラ語	bm_ML	バンバラ語 (マリ)	バンバラ語 (マリ)	-	-	-	MLI	bam	bm	top-to-bottom	bm_ML	-	-
+bn	left-to-right	-	-	ベンガル語	ベンガル語	ベンガル語	ベンガル語	-	-	-	-	ben	bn	top-to-bottom	bn	-	-
+bn_BD	left-to-right	BD	バングラデシュ	ベンガル語	bn_BD	ベンガル語 (バングラデシュ)	ベンガル語 (バングラデシュ)	-	-	-	BGD	ben	bn	top-to-bottom	bn_BD	-	-
+bn_IN	left-to-right	IN	インド	ベンガル語	bn_IN	ベンガル語 (インド)	ベンガル語 (インド)	-	-	-	IND	ben	bn	top-to-bottom	bn_IN	-	-
+bo	left-to-right	-	-	チベット語	チベット語	チベット語	チベット語	-	-	-	-	bod	bo	top-to-bottom	bo	-	-
+bo_CN	left-to-right	CN	中国	チベット語	bo_CN	チベット語 (中国)	チベット語 (中国)	-	-	-	CHN	bod	bo	top-to-bottom	bo_CN	-	-
+bo_IN	left-to-right	IN	インド	チベット語	bo_IN	チベット語 (インド)	チベット語 (インド)	-	-	-	IND	bod	bo	top-to-bottom	bo_IN	-	-
+br	left-to-right	-	-	ブルトン語	ブルトン語	ブルトン語	ブルトン語	-	-	-	-	bre	br	top-to-bottom	br	-	-
+br_FR	left-to-right	FR	フランス	ブルトン語	br_FR	ブルトン語 (フランス)	ブルトン語 (フランス)	-	-	-	FRA	bre	br	top-to-bottom	br_FR	-	-
+brx	left-to-right	-	-	ボド語	ボド語	ボド語	ボド語	-	-	-	-	brx	brx	top-to-bottom	brx	-	-
+brx_IN	left-to-right	IN	インド	ボド語	brx_IN	ボド語 (インド)	ボド語 (インド)	-	-	-	IND	brx	brx	top-to-bottom	brx_IN	-	-
+bs	left-to-right	-	-	ボスニア語	ボスニア語	ボスニア語	ボスニア語	-	-	-	-	bos	bs	top-to-bottom	bs	-	-
+bs_Cyrl	left-to-right	-	-	ボスニア語	bs_Cyrl	ボスニア語 (キリル文字)	ボスニア語 (キリル文字)	キリル文字	キリル文字	-	-	bos	bs	top-to-bottom	bs_Cyrl	Cyrl	-
+bs_Cyrl_BA	left-to-right	BA	ボスニア・ヘルツェゴビナ	ボスニア語	bs_Cyrl_BA	ボスニア語 (キリル文字、ボスニア・ヘルツェゴビナ)	ボスニア語 (キリル文字、ボスニア・ヘルツェゴビナ)	キリル文字	キリル文字	-	BIH	bos	bs	top-to-bottom	bs_Cyrl_BA	Cyrl	-
+bs_Latn	left-to-right	-	-	ボスニア語	bs_Latn	ボスニア語 (ラテン文字)	ボスニア語 (ラテン文字)	ラテン文字	ラテン文字	-	-	bos	bs	top-to-bottom	bs_Latn	Latn	-
+bs_Latn_BA	left-to-right	BA	ボスニア・ヘルツェゴビナ	ボスニア語	bs_Latn_BA	ボスニア語 (ラテン文字、ボスニア・ヘルツェゴビナ)	ボスニア語 (ラテン文字、ボスニア・ヘルツェゴビナ)	ラテン文字	ラテン文字	-	BIH	bos	bs	top-to-bottom	bs_Latn_BA	Latn	-
+ca	left-to-right	-	-	カタロニア語	カタロニア語	カタロニア語	カタロニア語	-	-	-	-	cat	ca	top-to-bottom	ca	-	-
+ca_AD	left-to-right	AD	アンドラ	カタロニア語	ca_AD	カタロニア語 (アンドラ)	カタロニア語 (アンドラ)	-	-	-	AND	cat	ca	top-to-bottom	ca_AD	-	-
+ca_ES	left-to-right	ES	スペイン	カタロニア語	ca_ES	カタロニア語 (スペイン)	カタロニア語 (スペイン)	-	-	-	ESP	cat	ca	top-to-bottom	ca_ES	-	-
+ca_FR	left-to-right	FR	フランス	カタロニア語	ca_FR	カタロニア語 (フランス)	カタロニア語 (フランス)	-	-	-	FRA	cat	ca	top-to-bottom	ca_FR	-	-
+ca_IT	left-to-right	IT	イタリア	カタロニア語	ca_IT	カタロニア語 (イタリア)	カタロニア語 (イタリア)	-	-	-	ITA	cat	ca	top-to-bottom	ca_IT	-	-
+ccp	left-to-right	-	-	チャクマ語	チャクマ語	チャクマ語	チャクマ語	-	-	-	-	-	ccp	top-to-bottom	ccp	-	-
+ccp_BD	left-to-right	BD	バングラデシュ	チャクマ語	ccp_BD	チャクマ語 (バングラデシュ)	チャクマ語 (バングラデシュ)	-	-	-	BGD	-	ccp	top-to-bottom	ccp_BD	-	-
+ccp_IN	left-to-right	IN	インド	チャクマ語	ccp_IN	チャクマ語 (インド)	チャクマ語 (インド)	-	-	-	IND	-	ccp	top-to-bottom	ccp_IN	-	-
+ce	left-to-right	-	-	チェチェン語	チェチェン語	チェチェン語	チェチェン語	-	-	-	-	che	ce	top-to-bottom	ce	-	-
+ce_RU	left-to-right	RU	ロシア	チェチェン語	ce_RU	チェチェン語 (ロシア)	チェチェン語 (ロシア)	-	-	-	RUS	che	ce	top-to-bottom	ce_RU	-	-
+ceb	left-to-right	-	-	セブアノ語	セブアノ語	セブアノ語	セブアノ語	-	-	-	-	ceb	ceb	top-to-bottom	ceb	-	-
+ceb_PH	left-to-right	PH	フィリピン	セブアノ語	ceb_PH	セブアノ語 (フィリピン)	セブアノ語 (フィリピン)	-	-	-	PHL	ceb	ceb	top-to-bottom	ceb_PH	-	-
+cgg	left-to-right	-	-	チガ語	チガ語	チガ語	チガ語	-	-	-	-	cgg	cgg	top-to-bottom	cgg	-	-
+cgg_UG	left-to-right	UG	ウガンダ	チガ語	cgg_UG	チガ語 (ウガンダ)	チガ語 (ウガンダ)	-	-	-	UGA	cgg	cgg	top-to-bottom	cgg_UG	-	-
+chr	left-to-right	-	-	チェロキー語	チェロキー語	チェロキー語	チェロキー語	-	-	-	-	chr	chr	top-to-bottom	chr	-	-
+chr_US	left-to-right	US	アメリカ合衆国	チェロキー語	chr_US	チェロキー語 (アメリカ合衆国)	チェロキー語 (アメリカ合衆国)	-	-	-	USA	chr	chr	top-to-bottom	chr_US	-	-
+ckb	right-to-left	-	-	中央クルド語	中央クルド語	中央クルド語	中央クルド語	-	-	-	-	ckb	ckb	top-to-bottom	ckb	-	-
+ckb_IQ	right-to-left	IQ	イラク	中央クルド語	ckb_IQ	中央クルド語 (イラク)	中央クルド語 (イラク)	-	-	-	IRQ	ckb	ckb	top-to-bottom	ckb_IQ	-	-
+ckb_IR	right-to-left	IR	イラン	中央クルド語	ckb_IR	中央クルド語 (イラン)	中央クルド語 (イラン)	-	-	-	IRN	ckb	ckb	top-to-bottom	ckb_IR	-	-
+cs	left-to-right	-	-	チェコ語	チェコ語	チェコ語	チェコ語	-	-	-	-	ces	cs	top-to-bottom	cs	-	-
+cs_CZ	left-to-right	CZ	チェコ	チェコ語	cs_CZ	チェコ語 (チェコ)	チェコ語 (チェコ)	-	-	-	CZE	ces	cs	top-to-bottom	cs_CZ	-	-
+cy	left-to-right	-	-	ウェールズ語	ウェールズ語	ウェールズ語	ウェールズ語	-	-	-	-	cym	cy	top-to-bottom	cy	-	-
+cy_GB	left-to-right	GB	イギリス	ウェールズ語	cy_GB	ウェールズ語 (イギリス)	ウェールズ語 (イギリス)	-	-	-	GBR	cym	cy	top-to-bottom	cy_GB	-	-
+da	left-to-right	-	-	デンマーク語	デンマーク語	デンマーク語	デンマーク語	-	-	-	-	dan	da	top-to-bottom	da	-	-
+da_DK	left-to-right	DK	デンマーク	デンマーク語	da_DK	デンマーク語 (デンマーク)	デンマーク語 (デンマーク)	-	-	-	DNK	dan	da	top-to-bottom	da_DK	-	-
+da_GL	left-to-right	GL	グリーンランド	デンマーク語	da_GL	デンマーク語 (グリーンランド)	デンマーク語 (グリーンランド)	-	-	-	GRL	dan	da	top-to-bottom	da_GL	-	-
+dav	left-to-right	-	-	タイタ語	タイタ語	タイタ語	タイタ語	-	-	-	-	dav	dav	top-to-bottom	dav	-	-
+dav_KE	left-to-right	KE	ケニア	タイタ語	dav_KE	タイタ語 (ケニア)	タイタ語 (ケニア)	-	-	-	KEN	dav	dav	top-to-bottom	dav_KE	-	-
+de	left-to-right	-	-	ドイツ語	ドイツ語	ドイツ語	ドイツ語	-	-	-	-	deu	de	top-to-bottom	de	-	-
+de_AT	left-to-right	AT	オーストリア	ドイツ語	de_AT	ドイツ語 (オーストリア)	ドイツ語 (オーストリア)	-	-	-	AUT	deu	de	top-to-bottom	de_AT	-	-
+de_BE	left-to-right	BE	ベルギー	ドイツ語	de_BE	ドイツ語 (ベルギー)	ドイツ語 (ベルギー)	-	-	-	BEL	deu	de	top-to-bottom	de_BE	-	-
+de_CH	left-to-right	CH	スイス	ドイツ語	de_CH	ドイツ語 (スイス)	標準ドイツ語 (スイス)	-	-	-	CHE	deu	de	top-to-bottom	de_CH	-	-
+de_DE	left-to-right	DE	ドイツ	ドイツ語	de_DE	ドイツ語 (ドイツ)	ドイツ語 (ドイツ)	-	-	-	DEU	deu	de	top-to-bottom	de_DE	-	-
+de_IT	left-to-right	IT	イタリア	ドイツ語	de_IT	ドイツ語 (イタリア)	ドイツ語 (イタリア)	-	-	-	ITA	deu	de	top-to-bottom	de_IT	-	-
+de_LI	left-to-right	LI	リヒテンシュタイン	ドイツ語	de_LI	ドイツ語 (リヒテンシュタイン)	ドイツ語 (リヒテンシュタイン)	-	-	-	LIE	deu	de	top-to-bottom	de_LI	-	-
+de_LU	left-to-right	LU	ルクセンブルク	ドイツ語	de_LU	ドイツ語 (ルクセンブルク)	ドイツ語 (ルクセンブルク)	-	-	-	LUX	deu	de	top-to-bottom	de_LU	-	-
+dje	left-to-right	-	-	ザルマ語	ザルマ語	ザルマ語	ザルマ語	-	-	-	-	dje	dje	top-to-bottom	dje	-	-
+dje_NE	left-to-right	NE	ニジェール	ザルマ語	dje_NE	ザルマ語 (ニジェール)	ザルマ語 (ニジェール)	-	-	-	NER	dje	dje	top-to-bottom	dje_NE	-	-
+dsb	left-to-right	-	-	低地ソルブ語	低地ソルブ語	低地ソルブ語	低地ソルブ語	-	-	-	-	dsb	dsb	top-to-bottom	dsb	-	-
+dsb_DE	left-to-right	DE	ドイツ	低地ソルブ語	dsb_DE	低地ソルブ語 (ドイツ)	低地ソルブ語 (ドイツ)	-	-	-	DEU	dsb	dsb	top-to-bottom	dsb_DE	-	-
+dua	left-to-right	-	-	ドゥアラ語	ドゥアラ語	ドゥアラ語	ドゥアラ語	-	-	-	-	dua	dua	top-to-bottom	dua	-	-
+dua_CM	left-to-right	CM	カメルーン	ドゥアラ語	dua_CM	ドゥアラ語 (カメルーン)	ドゥアラ語 (カメルーン)	-	-	-	CMR	dua	dua	top-to-bottom	dua_CM	-	-
+dyo	left-to-right	-	-	ジョラ＝フォニィ語	ジョラ＝フォニィ語	ジョラ＝フォニィ語	ジョラ＝フォニィ語	-	-	-	-	dyo	dyo	top-to-bottom	dyo	-	-
+dyo_SN	left-to-right	SN	セネガル	ジョラ＝フォニィ語	dyo_SN	ジョラ＝フォニィ語 (セネガル)	ジョラ＝フォニィ語 (セネガル)	-	-	-	SEN	dyo	dyo	top-to-bottom	dyo_SN	-	-
+dz	left-to-right	-	-	ゾンカ語	ゾンカ語	ゾンカ語	ゾンカ語	-	-	-	-	dzo	dz	top-to-bottom	dz	-	-
+dz_BT	left-to-right	BT	ブータン	ゾンカ語	dz_BT	ゾンカ語 (ブータン)	ゾンカ語 (ブータン)	-	-	-	BTN	dzo	dz	top-to-bottom	dz_BT	-	-
+ebu	left-to-right	-	-	エンブ語	エンブ語	エンブ語	エンブ語	-	-	-	-	ebu	ebu	top-to-bottom	ebu	-	-
+ebu_KE	left-to-right	KE	ケニア	エンブ語	ebu_KE	エンブ語 (ケニア)	エンブ語 (ケニア)	-	-	-	KEN	ebu	ebu	top-to-bottom	ebu_KE	-	-
+ee	left-to-right	-	-	エウェ語	エウェ語	エウェ語	エウェ語	-	-	-	-	ewe	ee	top-to-bottom	ee	-	-
+ee_GH	left-to-right	GH	ガーナ	エウェ語	ee_GH	エウェ語 (ガーナ)	エウェ語 (ガーナ)	-	-	-	GHA	ewe	ee	top-to-bottom	ee_GH	-	-
+ee_TG	left-to-right	TG	トーゴ	エウェ語	ee_TG	エウェ語 (トーゴ)	エウェ語 (トーゴ)	-	-	-	TGO	ewe	ee	top-to-bottom	ee_TG	-	-
+el	left-to-right	-	-	ギリシャ語	ギリシャ語	ギリシャ語	ギリシャ語	-	-	-	-	ell	el	top-to-bottom	el	-	-
+el_CY	left-to-right	CY	キプロス	ギリシャ語	el_CY	ギリシャ語 (キプロス)	ギリシャ語 (キプロス)	-	-	-	CYP	ell	el	top-to-bottom	el_CY	-	-
+el_GR	left-to-right	GR	ギリシャ	ギリシャ語	el_GR	ギリシャ語 (ギリシャ)	ギリシャ語 (ギリシャ)	-	-	-	GRC	ell	el	top-to-bottom	el_GR	-	-
+en	left-to-right	-	-	英語	英語	英語	英語	-	-	-	-	eng	en	top-to-bottom	en	-	-
+en_001	left-to-right	001	世界	英語	en_001	英語 (世界)	英語 (世界)	-	-	-	-	eng	en	top-to-bottom	en_001	-	-
+en_150	left-to-right	150	ヨーロッパ	英語	en_150	英語 (ヨーロッパ)	英語 (ヨーロッパ)	-	-	-	-	eng	en	top-to-bottom	en_150	-	-
+en_AE	left-to-right	AE	アラブ首長国連邦	英語	en_AE	英語 (アラブ首長国連邦)	英語 (アラブ首長国連邦)	-	-	-	ARE	eng	en	top-to-bottom	en_AE	-	-
+en_AG	left-to-right	AG	アンティグア・バーブーダ	英語	en_AG	英語 (アンティグア・バーブーダ)	英語 (アンティグア・バーブーダ)	-	-	-	ATG	eng	en	top-to-bottom	en_AG	-	-
+en_AI	left-to-right	AI	アンギラ	英語	en_AI	英語 (アンギラ)	英語 (アンギラ)	-	-	-	AIA	eng	en	top-to-bottom	en_AI	-	-
+en_AS	left-to-right	AS	米領サモア	英語	en_AS	英語 (米領サモア)	英語 (米領サモア)	-	-	-	ASM	eng	en	top-to-bottom	en_AS	-	-
+en_AT	left-to-right	AT	オーストリア	英語	en_AT	英語 (オーストリア)	英語 (オーストリア)	-	-	-	AUT	eng	en	top-to-bottom	en_AT	-	-
+en_AU	left-to-right	AU	オーストラリア	英語	en_AU	英語 (オーストラリア)	オーストラリア英語	-	-	-	AUS	eng	en	top-to-bottom	en_AU	-	-
+en_BB	left-to-right	BB	バルバドス	英語	en_BB	英語 (バルバドス)	英語 (バルバドス)	-	-	-	BRB	eng	en	top-to-bottom	en_BB	-	-
+en_BE	left-to-right	BE	ベルギー	英語	en_BE	英語 (ベルギー)	英語 (ベルギー)	-	-	-	BEL	eng	en	top-to-bottom	en_BE	-	-
+en_BI	left-to-right	BI	ブルンジ	英語	en_BI	英語 (ブルンジ)	英語 (ブルンジ)	-	-	-	BDI	eng	en	top-to-bottom	en_BI	-	-
+en_BM	left-to-right	BM	バミューダ	英語	en_BM	英語 (バミューダ)	英語 (バミューダ)	-	-	-	BMU	eng	en	top-to-bottom	en_BM	-	-
+en_BS	left-to-right	BS	バハマ	英語	en_BS	英語 (バハマ)	英語 (バハマ)	-	-	-	BHS	eng	en	top-to-bottom	en_BS	-	-
+en_BW	left-to-right	BW	ボツワナ	英語	en_BW	英語 (ボツワナ)	英語 (ボツワナ)	-	-	-	BWA	eng	en	top-to-bottom	en_BW	-	-
+en_BZ	left-to-right	BZ	ベリーズ	英語	en_BZ	英語 (ベリーズ)	英語 (ベリーズ)	-	-	-	BLZ	eng	en	top-to-bottom	en_BZ	-	-
+en_CA	left-to-right	CA	カナダ	英語	en_CA	英語 (カナダ)	カナダ英語	-	-	-	CAN	eng	en	top-to-bottom	en_CA	-	-
+en_CC	left-to-right	CC	ココス(キーリング)諸島	英語	en_CC	英語 (ココス[キーリング]諸島)	英語 (ココス[キーリング]諸島)	-	-	-	CCK	eng	en	top-to-bottom	en_CC	-	-
+en_CH	left-to-right	CH	スイス	英語	en_CH	英語 (スイス)	英語 (スイス)	-	-	-	CHE	eng	en	top-to-bottom	en_CH	-	-
+en_CK	left-to-right	CK	クック諸島	英語	en_CK	英語 (クック諸島)	英語 (クック諸島)	-	-	-	COK	eng	en	top-to-bottom	en_CK	-	-
+en_CM	left-to-right	CM	カメルーン	英語	en_CM	英語 (カメルーン)	英語 (カメルーン)	-	-	-	CMR	eng	en	top-to-bottom	en_CM	-	-
+en_CX	left-to-right	CX	クリスマス島	英語	en_CX	英語 (クリスマス島)	英語 (クリスマス島)	-	-	-	CXR	eng	en	top-to-bottom	en_CX	-	-
+en_CY	left-to-right	CY	キプロス	英語	en_CY	英語 (キプロス)	英語 (キプロス)	-	-	-	CYP	eng	en	top-to-bottom	en_CY	-	-
+en_DE	left-to-right	DE	ドイツ	英語	en_DE	英語 (ドイツ)	英語 (ドイツ)	-	-	-	DEU	eng	en	top-to-bottom	en_DE	-	-
+en_DG	left-to-right	DG	ディエゴガルシア島	英語	en_DG	英語 (ディエゴガルシア島)	英語 (ディエゴガルシア島)	-	-	-	-	eng	en	top-to-bottom	en_DG	-	-
+en_DK	left-to-right	DK	デンマーク	英語	en_DK	英語 (デンマーク)	英語 (デンマーク)	-	-	-	DNK	eng	en	top-to-bottom	en_DK	-	-
+en_DM	left-to-right	DM	ドミニカ国	英語	en_DM	英語 (ドミニカ国)	英語 (ドミニカ国)	-	-	-	DMA	eng	en	top-to-bottom	en_DM	-	-
+en_ER	left-to-right	ER	エリトリア	英語	en_ER	英語 (エリトリア)	英語 (エリトリア)	-	-	-	ERI	eng	en	top-to-bottom	en_ER	-	-
+en_FI	left-to-right	FI	フィンランド	英語	en_FI	英語 (フィンランド)	英語 (フィンランド)	-	-	-	FIN	eng	en	top-to-bottom	en_FI	-	-
+en_FJ	left-to-right	FJ	フィジー	英語	en_FJ	英語 (フィジー)	英語 (フィジー)	-	-	-	FJI	eng	en	top-to-bottom	en_FJ	-	-
+en_FK	left-to-right	FK	フォークランド諸島	英語	en_FK	英語 (フォークランド諸島)	英語 (フォークランド諸島)	-	-	-	FLK	eng	en	top-to-bottom	en_FK	-	-
+en_FM	left-to-right	FM	ミクロネシア連邦	英語	en_FM	英語 (ミクロネシア連邦)	英語 (ミクロネシア連邦)	-	-	-	FSM	eng	en	top-to-bottom	en_FM	-	-
+en_GB	left-to-right	GB	イギリス	英語	en_GB	英語 (イギリス)	イギリス英語	-	-	-	GBR	eng	en	top-to-bottom	en_GB	-	-
+en_GD	left-to-right	GD	グレナダ	英語	en_GD	英語 (グレナダ)	英語 (グレナダ)	-	-	-	GRD	eng	en	top-to-bottom	en_GD	-	-
+en_GG	left-to-right	GG	ガーンジー	英語	en_GG	英語 (ガーンジー)	英語 (ガーンジー)	-	-	-	GGY	eng	en	top-to-bottom	en_GG	-	-
+en_GH	left-to-right	GH	ガーナ	英語	en_GH	英語 (ガーナ)	英語 (ガーナ)	-	-	-	GHA	eng	en	top-to-bottom	en_GH	-	-
+en_GI	left-to-right	GI	ジブラルタル	英語	en_GI	英語 (ジブラルタル)	英語 (ジブラルタル)	-	-	-	GIB	eng	en	top-to-bottom	en_GI	-	-
+en_GM	left-to-right	GM	ガンビア	英語	en_GM	英語 (ガンビア)	英語 (ガンビア)	-	-	-	GMB	eng	en	top-to-bottom	en_GM	-	-
+en_GU	left-to-right	GU	グアム	英語	en_GU	英語 (グアム)	英語 (グアム)	-	-	-	GUM	eng	en	top-to-bottom	en_GU	-	-
+en_GY	left-to-right	GY	ガイアナ	英語	en_GY	英語 (ガイアナ)	英語 (ガイアナ)	-	-	-	GUY	eng	en	top-to-bottom	en_GY	-	-
+en_HK	left-to-right	HK	中華人民共和国香港特別行政区	英語	en_HK	英語 (中華人民共和国香港特別行政区)	英語 (中華人民共和国香港特別行政区)	-	-	-	HKG	eng	en	top-to-bottom	en_HK	-	-
+en_IE	left-to-right	IE	アイルランド	英語	en_IE	英語 (アイルランド)	英語 (アイルランド)	-	-	-	IRL	eng	en	top-to-bottom	en_IE	-	-
+en_IL	left-to-right	IL	イスラエル	英語	en_IL	英語 (イスラエル)	英語 (イスラエル)	-	-	-	ISR	eng	en	top-to-bottom	en_IL	-	-
+en_IM	left-to-right	IM	マン島	英語	en_IM	英語 (マン島)	英語 (マン島)	-	-	-	IMN	eng	en	top-to-bottom	en_IM	-	-
+en_IN	left-to-right	IN	インド	英語	en_IN	英語 (インド)	英語 (インド)	-	-	-	IND	eng	en	top-to-bottom	en_IN	-	-
+en_IO	left-to-right	IO	英領インド洋地域	英語	en_IO	英語 (英領インド洋地域)	英語 (英領インド洋地域)	-	-	-	IOT	eng	en	top-to-bottom	en_IO	-	-
+en_JE	left-to-right	JE	ジャージー	英語	en_JE	英語 (ジャージー)	英語 (ジャージー)	-	-	-	JEY	eng	en	top-to-bottom	en_JE	-	-
+en_JM	left-to-right	JM	ジャマイカ	英語	en_JM	英語 (ジャマイカ)	英語 (ジャマイカ)	-	-	-	JAM	eng	en	top-to-bottom	en_JM	-	-
+en_KE	left-to-right	KE	ケニア	英語	en_KE	英語 (ケニア)	英語 (ケニア)	-	-	-	KEN	eng	en	top-to-bottom	en_KE	-	-
+en_KI	left-to-right	KI	キリバス	英語	en_KI	英語 (キリバス)	英語 (キリバス)	-	-	-	KIR	eng	en	top-to-bottom	en_KI	-	-
+en_KN	left-to-right	KN	セントクリストファー・ネーヴィス	英語	en_KN	英語 (セントクリストファー・ネーヴィス)	英語 (セントクリストファー・ネーヴィス)	-	-	-	KNA	eng	en	top-to-bottom	en_KN	-	-
+en_KY	left-to-right	KY	ケイマン諸島	英語	en_KY	英語 (ケイマン諸島)	英語 (ケイマン諸島)	-	-	-	CYM	eng	en	top-to-bottom	en_KY	-	-
+en_LC	left-to-right	LC	セントルシア	英語	en_LC	英語 (セントルシア)	英語 (セントルシア)	-	-	-	LCA	eng	en	top-to-bottom	en_LC	-	-
+en_LR	left-to-right	LR	リベリア	英語	en_LR	英語 (リベリア)	英語 (リベリア)	-	-	-	LBR	eng	en	top-to-bottom	en_LR	-	-
+en_LS	left-to-right	LS	レソト	英語	en_LS	英語 (レソト)	英語 (レソト)	-	-	-	LSO	eng	en	top-to-bottom	en_LS	-	-
+en_MG	left-to-right	MG	マダガスカル	英語	en_MG	英語 (マダガスカル)	英語 (マダガスカル)	-	-	-	MDG	eng	en	top-to-bottom	en_MG	-	-
+en_MH	left-to-right	MH	マーシャル諸島	英語	en_MH	英語 (マーシャル諸島)	英語 (マーシャル諸島)	-	-	-	MHL	eng	en	top-to-bottom	en_MH	-	-
+en_MO	left-to-right	MO	中華人民共和国マカオ特別行政区	英語	en_MO	英語 (中華人民共和国マカオ特別行政区)	英語 (中華人民共和国マカオ特別行政区)	-	-	-	MAC	eng	en	top-to-bottom	en_MO	-	-
+en_MP	left-to-right	MP	北マリアナ諸島	英語	en_MP	英語 (北マリアナ諸島)	英語 (北マリアナ諸島)	-	-	-	MNP	eng	en	top-to-bottom	en_MP	-	-
+en_MS	left-to-right	MS	モントセラト	英語	en_MS	英語 (モントセラト)	英語 (モントセラト)	-	-	-	MSR	eng	en	top-to-bottom	en_MS	-	-
+en_MT	left-to-right	MT	マルタ	英語	en_MT	英語 (マルタ)	英語 (マルタ)	-	-	-	MLT	eng	en	top-to-bottom	en_MT	-	-
+en_MU	left-to-right	MU	モーリシャス	英語	en_MU	英語 (モーリシャス)	英語 (モーリシャス)	-	-	-	MUS	eng	en	top-to-bottom	en_MU	-	-
+en_MW	left-to-right	MW	マラウイ	英語	en_MW	英語 (マラウイ)	英語 (マラウイ)	-	-	-	MWI	eng	en	top-to-bottom	en_MW	-	-
+en_MY	left-to-right	MY	マレーシア	英語	en_MY	英語 (マレーシア)	英語 (マレーシア)	-	-	-	MYS	eng	en	top-to-bottom	en_MY	-	-
+en_NA	left-to-right	NA	ナミビア	英語	en_NA	英語 (ナミビア)	英語 (ナミビア)	-	-	-	NAM	eng	en	top-to-bottom	en_NA	-	-
+en_NF	left-to-right	NF	ノーフォーク島	英語	en_NF	英語 (ノーフォーク島)	英語 (ノーフォーク島)	-	-	-	NFK	eng	en	top-to-bottom	en_NF	-	-
+en_NG	left-to-right	NG	ナイジェリア	英語	en_NG	英語 (ナイジェリア)	英語 (ナイジェリア)	-	-	-	NGA	eng	en	top-to-bottom	en_NG	-	-
+en_NL	left-to-right	NL	オランダ	英語	en_NL	英語 (オランダ)	英語 (オランダ)	-	-	-	NLD	eng	en	top-to-bottom	en_NL	-	-
+en_NR	left-to-right	NR	ナウル	英語	en_NR	英語 (ナウル)	英語 (ナウル)	-	-	-	NRU	eng	en	top-to-bottom	en_NR	-	-
+en_NU	left-to-right	NU	ニウエ	英語	en_NU	英語 (ニウエ)	英語 (ニウエ)	-	-	-	NIU	eng	en	top-to-bottom	en_NU	-	-
+en_NZ	left-to-right	NZ	ニュージーランド	英語	en_NZ	英語 (ニュージーランド)	英語 (ニュージーランド)	-	-	-	NZL	eng	en	top-to-bottom	en_NZ	-	-
+en_PG	left-to-right	PG	パプアニューギニア	英語	en_PG	英語 (パプアニューギニア)	英語 (パプアニューギニア)	-	-	-	PNG	eng	en	top-to-bottom	en_PG	-	-
+en_PH	left-to-right	PH	フィリピン	英語	en_PH	英語 (フィリピン)	英語 (フィリピン)	-	-	-	PHL	eng	en	top-to-bottom	en_PH	-	-
+en_PK	left-to-right	PK	パキスタン	英語	en_PK	英語 (パキスタン)	英語 (パキスタン)	-	-	-	PAK	eng	en	top-to-bottom	en_PK	-	-
+en_PN	left-to-right	PN	ピトケアン諸島	英語	en_PN	英語 (ピトケアン諸島)	英語 (ピトケアン諸島)	-	-	-	PCN	eng	en	top-to-bottom	en_PN	-	-
+en_PR	left-to-right	PR	プエルトリコ	英語	en_PR	英語 (プエルトリコ)	英語 (プエルトリコ)	-	-	-	PRI	eng	en	top-to-bottom	en_PR	-	-
+en_PW	left-to-right	PW	パラオ	英語	en_PW	英語 (パラオ)	英語 (パラオ)	-	-	-	PLW	eng	en	top-to-bottom	en_PW	-	-
+en_RW	left-to-right	RW	ルワンダ	英語	en_RW	英語 (ルワンダ)	英語 (ルワンダ)	-	-	-	RWA	eng	en	top-to-bottom	en_RW	-	-
+en_SB	left-to-right	SB	ソロモン諸島	英語	en_SB	英語 (ソロモン諸島)	英語 (ソロモン諸島)	-	-	-	SLB	eng	en	top-to-bottom	en_SB	-	-
+en_SC	left-to-right	SC	セーシェル	英語	en_SC	英語 (セーシェル)	英語 (セーシェル)	-	-	-	SYC	eng	en	top-to-bottom	en_SC	-	-
+en_SD	left-to-right	SD	スーダン	英語	en_SD	英語 (スーダン)	英語 (スーダン)	-	-	-	SDN	eng	en	top-to-bottom	en_SD	-	-
+en_SE	left-to-right	SE	スウェーデン	英語	en_SE	英語 (スウェーデン)	英語 (スウェーデン)	-	-	-	SWE	eng	en	top-to-bottom	en_SE	-	-
+en_SG	left-to-right	SG	シンガポール	英語	en_SG	英語 (シンガポール)	英語 (シンガポール)	-	-	-	SGP	eng	en	top-to-bottom	en_SG	-	-
+en_SH	left-to-right	SH	セントヘレナ	英語	en_SH	英語 (セントヘレナ)	英語 (セントヘレナ)	-	-	-	SHN	eng	en	top-to-bottom	en_SH	-	-
+en_SI	left-to-right	SI	スロベニア	英語	en_SI	英語 (スロベニア)	英語 (スロベニア)	-	-	-	SVN	eng	en	top-to-bottom	en_SI	-	-
+en_SL	left-to-right	SL	シエラレオネ	英語	en_SL	英語 (シエラレオネ)	英語 (シエラレオネ)	-	-	-	SLE	eng	en	top-to-bottom	en_SL	-	-
+en_SS	left-to-right	SS	南スーダン	英語	en_SS	英語 (南スーダン)	英語 (南スーダン)	-	-	-	SSD	eng	en	top-to-bottom	en_SS	-	-
+en_SX	left-to-right	SX	シント・マールテン	英語	en_SX	英語 (シント・マールテン)	英語 (シント・マールテン)	-	-	-	SXM	eng	en	top-to-bottom	en_SX	-	-
+en_SZ	left-to-right	SZ	エスワティニ	英語	en_SZ	英語 (エスワティニ)	英語 (エスワティニ)	-	-	-	SWZ	eng	en	top-to-bottom	en_SZ	-	-
+en_TC	left-to-right	TC	タークス・カイコス諸島	英語	en_TC	英語 (タークス・カイコス諸島)	英語 (タークス・カイコス諸島)	-	-	-	TCA	eng	en	top-to-bottom	en_TC	-	-
+en_TK	left-to-right	TK	トケラウ	英語	en_TK	英語 (トケラウ)	英語 (トケラウ)	-	-	-	TKL	eng	en	top-to-bottom	en_TK	-	-
+en_TO	left-to-right	TO	トンガ	英語	en_TO	英語 (トンガ)	英語 (トンガ)	-	-	-	TON	eng	en	top-to-bottom	en_TO	-	-
+en_TT	left-to-right	TT	トリニダード・トバゴ	英語	en_TT	英語 (トリニダード・トバゴ)	英語 (トリニダード・トバゴ)	-	-	-	TTO	eng	en	top-to-bottom	en_TT	-	-
+en_TV	left-to-right	TV	ツバル	英語	en_TV	英語 (ツバル)	英語 (ツバル)	-	-	-	TUV	eng	en	top-to-bottom	en_TV	-	-
+en_TZ	left-to-right	TZ	タンザニア	英語	en_TZ	英語 (タンザニア)	英語 (タンザニア)	-	-	-	TZA	eng	en	top-to-bottom	en_TZ	-	-
+en_UG	left-to-right	UG	ウガンダ	英語	en_UG	英語 (ウガンダ)	英語 (ウガンダ)	-	-	-	UGA	eng	en	top-to-bottom	en_UG	-	-
+en_UM	left-to-right	UM	合衆国領有小離島	英語	en_UM	英語 (合衆国領有小離島)	英語 (合衆国領有小離島)	-	-	-	UMI	eng	en	top-to-bottom	en_UM	-	-
+en_US	left-to-right	US	アメリカ合衆国	英語	en_US	英語 (アメリカ合衆国)	アメリカ英語	-	-	-	USA	eng	en	top-to-bottom	en_US	-	-
+en_US_POSIX	left-to-right	US	アメリカ合衆国	英語	en_US_POSIX	英語 (アメリカ合衆国、コンピュータ)	アメリカ英語 (コンピュータ)	-	-	コンピュータ	USA	eng	en	top-to-bottom	en_US_POSIX	-	POSIX
+en_VC	left-to-right	VC	セントビンセント及びグレナディーン諸島	英語	en_VC	英語 (セントビンセント及びグレナディーン諸島)	英語 (セントビンセント及びグレナディーン諸島)	-	-	-	VCT	eng	en	top-to-bottom	en_VC	-	-
+en_VG	left-to-right	VG	英領ヴァージン諸島	英語	en_VG	英語 (英領ヴァージン諸島)	英語 (英領ヴァージン諸島)	-	-	-	VGB	eng	en	top-to-bottom	en_VG	-	-
+en_VI	left-to-right	VI	米領ヴァージン諸島	英語	en_VI	英語 (米領ヴァージン諸島)	英語 (米領ヴァージン諸島)	-	-	-	VIR	eng	en	top-to-bottom	en_VI	-	-
+en_VU	left-to-right	VU	バヌアツ	英語	en_VU	英語 (バヌアツ)	英語 (バヌアツ)	-	-	-	VUT	eng	en	top-to-bottom	en_VU	-	-
+en_WS	left-to-right	WS	サモア	英語	en_WS	英語 (サモア)	英語 (サモア)	-	-	-	WSM	eng	en	top-to-bottom	en_WS	-	-
+en_ZA	left-to-right	ZA	南アフリカ	英語	en_ZA	英語 (南アフリカ)	英語 (南アフリカ)	-	-	-	ZAF	eng	en	top-to-bottom	en_ZA	-	-
+en_ZM	left-to-right	ZM	ザンビア	英語	en_ZM	英語 (ザンビア)	英語 (ザンビア)	-	-	-	ZMB	eng	en	top-to-bottom	en_ZM	-	-
+en_ZW	left-to-right	ZW	ジンバブエ	英語	en_ZW	英語 (ジンバブエ)	英語 (ジンバブエ)	-	-	-	ZWE	eng	en	top-to-bottom	en_ZW	-	-
+eo	left-to-right	-	-	エスペラント語	エスペラント語	エスペラント語	エスペラント語	-	-	-	-	epo	eo	top-to-bottom	eo	-	-
+eo_001	left-to-right	001	世界	エスペラント語	eo_001	エスペラント語 (世界)	エスペラント語 (世界)	-	-	-	-	epo	eo	top-to-bottom	eo_001	-	-
+es	left-to-right	-	-	スペイン語	スペイン語	スペイン語	スペイン語	-	-	-	-	spa	es	top-to-bottom	es	-	-
+es_419	left-to-right	419	ラテンアメリカ	スペイン語	es_419	スペイン語 (ラテンアメリカ)	スペイン語 (ラテンアメリカ)	-	-	-	-	spa	es	top-to-bottom	es_419	-	-
+es_AR	left-to-right	AR	アルゼンチン	スペイン語	es_AR	スペイン語 (アルゼンチン)	スペイン語 (アルゼンチン)	-	-	-	ARG	spa	es	top-to-bottom	es_AR	-	-
+es_BO	left-to-right	BO	ボリビア	スペイン語	es_BO	スペイン語 (ボリビア)	スペイン語 (ボリビア)	-	-	-	BOL	spa	es	top-to-bottom	es_BO	-	-
+es_BR	left-to-right	BR	ブラジル	スペイン語	es_BR	スペイン語 (ブラジル)	スペイン語 (ブラジル)	-	-	-	BRA	spa	es	top-to-bottom	es_BR	-	-
+es_BZ	left-to-right	BZ	ベリーズ	スペイン語	es_BZ	スペイン語 (ベリーズ)	スペイン語 (ベリーズ)	-	-	-	BLZ	spa	es	top-to-bottom	es_BZ	-	-
+es_CL	left-to-right	CL	チリ	スペイン語	es_CL	スペイン語 (チリ)	スペイン語 (チリ)	-	-	-	CHL	spa	es	top-to-bottom	es_CL	-	-
+es_CO	left-to-right	CO	コロンビア	スペイン語	es_CO	スペイン語 (コロンビア)	スペイン語 (コロンビア)	-	-	-	COL	spa	es	top-to-bottom	es_CO	-	-
+es_CR	left-to-right	CR	コスタリカ	スペイン語	es_CR	スペイン語 (コスタリカ)	スペイン語 (コスタリカ)	-	-	-	CRI	spa	es	top-to-bottom	es_CR	-	-
+es_CU	left-to-right	CU	キューバ	スペイン語	es_CU	スペイン語 (キューバ)	スペイン語 (キューバ)	-	-	-	CUB	spa	es	top-to-bottom	es_CU	-	-
+es_DO	left-to-right	DO	ドミニカ共和国	スペイン語	es_DO	スペイン語 (ドミニカ共和国)	スペイン語 (ドミニカ共和国)	-	-	-	DOM	spa	es	top-to-bottom	es_DO	-	-
+es_EA	left-to-right	EA	セウタ・メリリャ	スペイン語	es_EA	スペイン語 (セウタ・メリリャ)	スペイン語 (セウタ・メリリャ)	-	-	-	-	spa	es	top-to-bottom	es_EA	-	-
+es_EC	left-to-right	EC	エクアドル	スペイン語	es_EC	スペイン語 (エクアドル)	スペイン語 (エクアドル)	-	-	-	ECU	spa	es	top-to-bottom	es_EC	-	-
+es_ES	left-to-right	ES	スペイン	スペイン語	es_ES	スペイン語 (スペイン)	スペイン語 (イベリア半島)	-	-	-	ESP	spa	es	top-to-bottom	es_ES	-	-
+es_GQ	left-to-right	GQ	赤道ギニア	スペイン語	es_GQ	スペイン語 (赤道ギニア)	スペイン語 (赤道ギニア)	-	-	-	GNQ	spa	es	top-to-bottom	es_GQ	-	-
+es_GT	left-to-right	GT	グアテマラ	スペイン語	es_GT	スペイン語 (グアテマラ)	スペイン語 (グアテマラ)	-	-	-	GTM	spa	es	top-to-bottom	es_GT	-	-
+es_HN	left-to-right	HN	ホンジュラス	スペイン語	es_HN	スペイン語 (ホンジュラス)	スペイン語 (ホンジュラス)	-	-	-	HND	spa	es	top-to-bottom	es_HN	-	-
+es_IC	left-to-right	IC	カナリア諸島	スペイン語	es_IC	スペイン語 (カナリア諸島)	スペイン語 (カナリア諸島)	-	-	-	-	spa	es	top-to-bottom	es_IC	-	-
+es_MX	left-to-right	MX	メキシコ	スペイン語	es_MX	スペイン語 (メキシコ)	スペイン語 (メキシコ)	-	-	-	MEX	spa	es	top-to-bottom	es_MX	-	-
+es_NI	left-to-right	NI	ニカラグア	スペイン語	es_NI	スペイン語 (ニカラグア)	スペイン語 (ニカラグア)	-	-	-	NIC	spa	es	top-to-bottom	es_NI	-	-
+es_PA	left-to-right	PA	パナマ	スペイン語	es_PA	スペイン語 (パナマ)	スペイン語 (パナマ)	-	-	-	PAN	spa	es	top-to-bottom	es_PA	-	-
+es_PE	left-to-right	PE	ペルー	スペイン語	es_PE	スペイン語 (ペルー)	スペイン語 (ペルー)	-	-	-	PER	spa	es	top-to-bottom	es_PE	-	-
+es_PH	left-to-right	PH	フィリピン	スペイン語	es_PH	スペイン語 (フィリピン)	スペイン語 (フィリピン)	-	-	-	PHL	spa	es	top-to-bottom	es_PH	-	-
+es_PR	left-to-right	PR	プエルトリコ	スペイン語	es_PR	スペイン語 (プエルトリコ)	スペイン語 (プエルトリコ)	-	-	-	PRI	spa	es	top-to-bottom	es_PR	-	-
+es_PY	left-to-right	PY	パラグアイ	スペイン語	es_PY	スペイン語 (パラグアイ)	スペイン語 (パラグアイ)	-	-	-	PRY	spa	es	top-to-bottom	es_PY	-	-
+es_SV	left-to-right	SV	エルサルバドル	スペイン語	es_SV	スペイン語 (エルサルバドル)	スペイン語 (エルサルバドル)	-	-	-	SLV	spa	es	top-to-bottom	es_SV	-	-
+es_US	left-to-right	US	アメリカ合衆国	スペイン語	es_US	スペイン語 (アメリカ合衆国)	スペイン語 (アメリカ合衆国)	-	-	-	USA	spa	es	top-to-bottom	es_US	-	-
+es_UY	left-to-right	UY	ウルグアイ	スペイン語	es_UY	スペイン語 (ウルグアイ)	スペイン語 (ウルグアイ)	-	-	-	URY	spa	es	top-to-bottom	es_UY	-	-
+es_VE	left-to-right	VE	ベネズエラ	スペイン語	es_VE	スペイン語 (ベネズエラ)	スペイン語 (ベネズエラ)	-	-	-	VEN	spa	es	top-to-bottom	es_VE	-	-
+et	left-to-right	-	-	エストニア語	エストニア語	エストニア語	エストニア語	-	-	-	-	est	et	top-to-bottom	et	-	-
+et_EE	left-to-right	EE	エストニア	エストニア語	et_EE	エストニア語 (エストニア)	エストニア語 (エストニア)	-	-	-	EST	est	et	top-to-bottom	et_EE	-	-
+eu	left-to-right	-	-	バスク語	バスク語	バスク語	バスク語	-	-	-	-	eus	eu	top-to-bottom	eu	-	-
+eu_ES	left-to-right	ES	スペイン	バスク語	eu_ES	バスク語 (スペイン)	バスク語 (スペイン)	-	-	-	ESP	eus	eu	top-to-bottom	eu_ES	-	-
+ewo	left-to-right	-	-	エウォンド語	エウォンド語	エウォンド語	エウォンド語	-	-	-	-	ewo	ewo	top-to-bottom	ewo	-	-
+ewo_CM	left-to-right	CM	カメルーン	エウォンド語	ewo_CM	エウォンド語 (カメルーン)	エウォンド語 (カメルーン)	-	-	-	CMR	ewo	ewo	top-to-bottom	ewo_CM	-	-
+fa	right-to-left	-	-	ペルシア語	ペルシア語	ペルシア語	ペルシア語	-	-	-	-	fas	fa	top-to-bottom	fa	-	-
+fa_AF	right-to-left	AF	アフガニスタン	ペルシア語	fa_AF	ペルシア語 (アフガニスタン)	ダリー語	-	-	-	AFG	fas	fa	top-to-bottom	fa_AF	-	-
+fa_IR	right-to-left	IR	イラン	ペルシア語	fa_IR	ペルシア語 (イラン)	ペルシア語 (イラン)	-	-	-	IRN	fas	fa	top-to-bottom	fa_IR	-	-
+ff	left-to-right	-	-	フラ語	フラ語	フラ語	フラ語	-	-	-	-	ful	ff	top-to-bottom	ff	-	-
+ff_Adlm	right-to-left	-	-	フラ語	ff_Adlm	フラ語 (Adlm)	フラ語 (Adlm)	Adlm	Adlm	-	-	ful	ff	top-to-bottom	ff_Adlm	Adlm	-
+ff_Adlm_BF	right-to-left	BF	ブルキナファソ	フラ語	ff_Adlm_BF	フラ語 (Adlm、ブルキナファソ)	フラ語 (Adlm、ブルキナファソ)	Adlm	Adlm	-	BFA	ful	ff	top-to-bottom	ff_Adlm_BF	Adlm	-
+ff_Adlm_CM	right-to-left	CM	カメルーン	フラ語	ff_Adlm_CM	フラ語 (Adlm、カメルーン)	フラ語 (Adlm、カメルーン)	Adlm	Adlm	-	CMR	ful	ff	top-to-bottom	ff_Adlm_CM	Adlm	-
+ff_Adlm_GH	right-to-left	GH	ガーナ	フラ語	ff_Adlm_GH	フラ語 (Adlm、ガーナ)	フラ語 (Adlm、ガーナ)	Adlm	Adlm	-	GHA	ful	ff	top-to-bottom	ff_Adlm_GH	Adlm	-
+ff_Adlm_GM	right-to-left	GM	ガンビア	フラ語	ff_Adlm_GM	フラ語 (Adlm、ガンビア)	フラ語 (Adlm、ガンビア)	Adlm	Adlm	-	GMB	ful	ff	top-to-bottom	ff_Adlm_GM	Adlm	-
+ff_Adlm_GN	right-to-left	GN	ギニア	フラ語	ff_Adlm_GN	フラ語 (Adlm、ギニア)	フラ語 (Adlm、ギニア)	Adlm	Adlm	-	GIN	ful	ff	top-to-bottom	ff_Adlm_GN	Adlm	-
+ff_Adlm_GW	right-to-left	GW	ギニアビサウ	フラ語	ff_Adlm_GW	フラ語 (Adlm、ギニアビサウ)	フラ語 (Adlm、ギニアビサウ)	Adlm	Adlm	-	GNB	ful	ff	top-to-bottom	ff_Adlm_GW	Adlm	-
+ff_Adlm_LR	right-to-left	LR	リベリア	フラ語	ff_Adlm_LR	フラ語 (Adlm、リベリア)	フラ語 (Adlm、リベリア)	Adlm	Adlm	-	LBR	ful	ff	top-to-bottom	ff_Adlm_LR	Adlm	-
+ff_Adlm_MR	right-to-left	MR	モーリタニア	フラ語	ff_Adlm_MR	フラ語 (Adlm、モーリタニア)	フラ語 (Adlm、モーリタニア)	Adlm	Adlm	-	MRT	ful	ff	top-to-bottom	ff_Adlm_MR	Adlm	-
+ff_Adlm_NE	right-to-left	NE	ニジェール	フラ語	ff_Adlm_NE	フラ語 (Adlm、ニジェール)	フラ語 (Adlm、ニジェール)	Adlm	Adlm	-	NER	ful	ff	top-to-bottom	ff_Adlm_NE	Adlm	-
+ff_Adlm_NG	right-to-left	NG	ナイジェリア	フラ語	ff_Adlm_NG	フラ語 (Adlm、ナイジェリア)	フラ語 (Adlm、ナイジェリア)	Adlm	Adlm	-	NGA	ful	ff	top-to-bottom	ff_Adlm_NG	Adlm	-
+ff_Adlm_SL	right-to-left	SL	シエラレオネ	フラ語	ff_Adlm_SL	フラ語 (Adlm、シエラレオネ)	フラ語 (Adlm、シエラレオネ)	Adlm	Adlm	-	SLE	ful	ff	top-to-bottom	ff_Adlm_SL	Adlm	-
+ff_Adlm_SN	right-to-left	SN	セネガル	フラ語	ff_Adlm_SN	フラ語 (Adlm、セネガル)	フラ語 (Adlm、セネガル)	Adlm	Adlm	-	SEN	ful	ff	top-to-bottom	ff_Adlm_SN	Adlm	-
+ff_Latn	left-to-right	-	-	フラ語	ff_Latn	フラ語 (ラテン文字)	フラ語 (ラテン文字)	ラテン文字	ラテン文字	-	-	ful	ff	top-to-bottom	ff_Latn	Latn	-
+ff_Latn_BF	left-to-right	BF	ブルキナファソ	フラ語	ff_Latn_BF	フラ語 (ラテン文字、ブルキナファソ)	フラ語 (ラテン文字、ブルキナファソ)	ラテン文字	ラテン文字	-	BFA	ful	ff	top-to-bottom	ff_Latn_BF	Latn	-
+ff_Latn_CM	left-to-right	CM	カメルーン	フラ語	ff_Latn_CM	フラ語 (ラテン文字、カメルーン)	フラ語 (ラテン文字、カメルーン)	ラテン文字	ラテン文字	-	CMR	ful	ff	top-to-bottom	ff_Latn_CM	Latn	-
+ff_Latn_GH	left-to-right	GH	ガーナ	フラ語	ff_Latn_GH	フラ語 (ラテン文字、ガーナ)	フラ語 (ラテン文字、ガーナ)	ラテン文字	ラテン文字	-	GHA	ful	ff	top-to-bottom	ff_Latn_GH	Latn	-
+ff_Latn_GM	left-to-right	GM	ガンビア	フラ語	ff_Latn_GM	フラ語 (ラテン文字、ガンビア)	フラ語 (ラテン文字、ガンビア)	ラテン文字	ラテン文字	-	GMB	ful	ff	top-to-bottom	ff_Latn_GM	Latn	-
+ff_Latn_GN	left-to-right	GN	ギニア	フラ語	ff_Latn_GN	フラ語 (ラテン文字、ギニア)	フラ語 (ラテン文字、ギニア)	ラテン文字	ラテン文字	-	GIN	ful	ff	top-to-bottom	ff_Latn_GN	Latn	-
+ff_Latn_GW	left-to-right	GW	ギニアビサウ	フラ語	ff_Latn_GW	フラ語 (ラテン文字、ギニアビサウ)	フラ語 (ラテン文字、ギニアビサウ)	ラテン文字	ラテン文字	-	GNB	ful	ff	top-to-bottom	ff_Latn_GW	Latn	-
+ff_Latn_LR	left-to-right	LR	リベリア	フラ語	ff_Latn_LR	フラ語 (ラテン文字、リベリア)	フラ語 (ラテン文字、リベリア)	ラテン文字	ラテン文字	-	LBR	ful	ff	top-to-bottom	ff_Latn_LR	Latn	-
+ff_Latn_MR	left-to-right	MR	モーリタニア	フラ語	ff_Latn_MR	フラ語 (ラテン文字、モーリタニア)	フラ語 (ラテン文字、モーリタニア)	ラテン文字	ラテン文字	-	MRT	ful	ff	top-to-bottom	ff_Latn_MR	Latn	-
+ff_Latn_NE	left-to-right	NE	ニジェール	フラ語	ff_Latn_NE	フラ語 (ラテン文字、ニジェール)	フラ語 (ラテン文字、ニジェール)	ラテン文字	ラテン文字	-	NER	ful	ff	top-to-bottom	ff_Latn_NE	Latn	-
+ff_Latn_NG	left-to-right	NG	ナイジェリア	フラ語	ff_Latn_NG	フラ語 (ラテン文字、ナイジェリア)	フラ語 (ラテン文字、ナイジェリア)	ラテン文字	ラテン文字	-	NGA	ful	ff	top-to-bottom	ff_Latn_NG	Latn	-
+ff_Latn_SL	left-to-right	SL	シエラレオネ	フラ語	ff_Latn_SL	フラ語 (ラテン文字、シエラレオネ)	フラ語 (ラテン文字、シエラレオネ)	ラテン文字	ラテン文字	-	SLE	ful	ff	top-to-bottom	ff_Latn_SL	Latn	-
+ff_Latn_SN	left-to-right	SN	セネガル	フラ語	ff_Latn_SN	フラ語 (ラテン文字、セネガル)	フラ語 (ラテン文字、セネガル)	ラテン文字	ラテン文字	-	SEN	ful	ff	top-to-bottom	ff_Latn_SN	Latn	-
+fi	left-to-right	-	-	フィンランド語	フィンランド語	フィンランド語	フィンランド語	-	-	-	-	fin	fi	top-to-bottom	fi	-	-
+fi_FI	left-to-right	FI	フィンランド	フィンランド語	fi_FI	フィンランド語 (フィンランド)	フィンランド語 (フィンランド)	-	-	-	FIN	fin	fi	top-to-bottom	fi_FI	-	-
+fil	left-to-right	-	-	フィリピノ語	フィリピノ語	フィリピノ語	フィリピノ語	-	-	-	-	fil	fil	top-to-bottom	fil	-	-
+fil_PH	left-to-right	PH	フィリピン	フィリピノ語	fil_PH	フィリピノ語 (フィリピン)	フィリピノ語 (フィリピン)	-	-	-	PHL	fil	fil	top-to-bottom	fil_PH	-	-
+fo	left-to-right	-	-	フェロー語	フェロー語	フェロー語	フェロー語	-	-	-	-	fao	fo	top-to-bottom	fo	-	-
+fo_DK	left-to-right	DK	デンマーク	フェロー語	fo_DK	フェロー語 (デンマーク)	フェロー語 (デンマーク)	-	-	-	DNK	fao	fo	top-to-bottom	fo_DK	-	-
+fo_FO	left-to-right	FO	フェロー諸島	フェロー語	fo_FO	フェロー語 (フェロー諸島)	フェロー語 (フェロー諸島)	-	-	-	FRO	fao	fo	top-to-bottom	fo_FO	-	-
+fr	left-to-right	-	-	フランス語	フランス語	フランス語	フランス語	-	-	-	-	fra	fr	top-to-bottom	fr	-	-
+fr_BE	left-to-right	BE	ベルギー	フランス語	fr_BE	フランス語 (ベルギー)	フランス語 (ベルギー)	-	-	-	BEL	fra	fr	top-to-bottom	fr_BE	-	-
+fr_BF	left-to-right	BF	ブルキナファソ	フランス語	fr_BF	フランス語 (ブルキナファソ)	フランス語 (ブルキナファソ)	-	-	-	BFA	fra	fr	top-to-bottom	fr_BF	-	-
+fr_BI	left-to-right	BI	ブルンジ	フランス語	fr_BI	フランス語 (ブルンジ)	フランス語 (ブルンジ)	-	-	-	BDI	fra	fr	top-to-bottom	fr_BI	-	-
+fr_BJ	left-to-right	BJ	ベナン	フランス語	fr_BJ	フランス語 (ベナン)	フランス語 (ベナン)	-	-	-	BEN	fra	fr	top-to-bottom	fr_BJ	-	-
+fr_BL	left-to-right	BL	サン・バルテルミー	フランス語	fr_BL	フランス語 (サン・バルテルミー)	フランス語 (サン・バルテルミー)	-	-	-	BLM	fra	fr	top-to-bottom	fr_BL	-	-
+fr_CA	left-to-right	CA	カナダ	フランス語	fr_CA	フランス語 (カナダ)	フランス語 (カナダ)	-	-	-	CAN	fra	fr	top-to-bottom	fr_CA	-	-
+fr_CD	left-to-right	CD	コンゴ民主共和国(キンシャサ)	フランス語	fr_CD	フランス語 (コンゴ民主共和国[キンシャサ])	フランス語 (コンゴ民主共和国[キンシャサ])	-	-	-	COD	fra	fr	top-to-bottom	fr_CD	-	-
+fr_CF	left-to-right	CF	中央アフリカ共和国	フランス語	fr_CF	フランス語 (中央アフリカ共和国)	フランス語 (中央アフリカ共和国)	-	-	-	CAF	fra	fr	top-to-bottom	fr_CF	-	-
+fr_CG	left-to-right	CG	コンゴ共和国(ブラザビル)	フランス語	fr_CG	フランス語 (コンゴ共和国[ブラザビル])	フランス語 (コンゴ共和国[ブラザビル])	-	-	-	COG	fra	fr	top-to-bottom	fr_CG	-	-
+fr_CH	left-to-right	CH	スイス	フランス語	fr_CH	フランス語 (スイス)	フランス語 (スイス)	-	-	-	CHE	fra	fr	top-to-bottom	fr_CH	-	-
+fr_CI	left-to-right	CI	コートジボワール	フランス語	fr_CI	フランス語 (コートジボワール)	フランス語 (コートジボワール)	-	-	-	CIV	fra	fr	top-to-bottom	fr_CI	-	-
+fr_CM	left-to-right	CM	カメルーン	フランス語	fr_CM	フランス語 (カメルーン)	フランス語 (カメルーン)	-	-	-	CMR	fra	fr	top-to-bottom	fr_CM	-	-
+fr_DJ	left-to-right	DJ	ジブチ	フランス語	fr_DJ	フランス語 (ジブチ)	フランス語 (ジブチ)	-	-	-	DJI	fra	fr	top-to-bottom	fr_DJ	-	-
+fr_DZ	left-to-right	DZ	アルジェリア	フランス語	fr_DZ	フランス語 (アルジェリア)	フランス語 (アルジェリア)	-	-	-	DZA	fra	fr	top-to-bottom	fr_DZ	-	-
+fr_FR	left-to-right	FR	フランス	フランス語	fr_FR	フランス語 (フランス)	フランス語 (フランス)	-	-	-	FRA	fra	fr	top-to-bottom	fr_FR	-	-
+fr_GA	left-to-right	GA	ガボン	フランス語	fr_GA	フランス語 (ガボン)	フランス語 (ガボン)	-	-	-	GAB	fra	fr	top-to-bottom	fr_GA	-	-
+fr_GF	left-to-right	GF	仏領ギアナ	フランス語	fr_GF	フランス語 (仏領ギアナ)	フランス語 (仏領ギアナ)	-	-	-	GUF	fra	fr	top-to-bottom	fr_GF	-	-
+fr_GN	left-to-right	GN	ギニア	フランス語	fr_GN	フランス語 (ギニア)	フランス語 (ギニア)	-	-	-	GIN	fra	fr	top-to-bottom	fr_GN	-	-
+fr_GP	left-to-right	GP	グアドループ	フランス語	fr_GP	フランス語 (グアドループ)	フランス語 (グアドループ)	-	-	-	GLP	fra	fr	top-to-bottom	fr_GP	-	-
+fr_GQ	left-to-right	GQ	赤道ギニア	フランス語	fr_GQ	フランス語 (赤道ギニア)	フランス語 (赤道ギニア)	-	-	-	GNQ	fra	fr	top-to-bottom	fr_GQ	-	-
+fr_HT	left-to-right	HT	ハイチ	フランス語	fr_HT	フランス語 (ハイチ)	フランス語 (ハイチ)	-	-	-	HTI	fra	fr	top-to-bottom	fr_HT	-	-
+fr_KM	left-to-right	KM	コモロ	フランス語	fr_KM	フランス語 (コモロ)	フランス語 (コモロ)	-	-	-	COM	fra	fr	top-to-bottom	fr_KM	-	-
+fr_LU	left-to-right	LU	ルクセンブルク	フランス語	fr_LU	フランス語 (ルクセンブルク)	フランス語 (ルクセンブルク)	-	-	-	LUX	fra	fr	top-to-bottom	fr_LU	-	-
+fr_MA	left-to-right	MA	モロッコ	フランス語	fr_MA	フランス語 (モロッコ)	フランス語 (モロッコ)	-	-	-	MAR	fra	fr	top-to-bottom	fr_MA	-	-
+fr_MC	left-to-right	MC	モナコ	フランス語	fr_MC	フランス語 (モナコ)	フランス語 (モナコ)	-	-	-	MCO	fra	fr	top-to-bottom	fr_MC	-	-
+fr_MF	left-to-right	MF	サン・マルタン	フランス語	fr_MF	フランス語 (サン・マルタン)	フランス語 (サン・マルタン)	-	-	-	MAF	fra	fr	top-to-bottom	fr_MF	-	-
+fr_MG	left-to-right	MG	マダガスカル	フランス語	fr_MG	フランス語 (マダガスカル)	フランス語 (マダガスカル)	-	-	-	MDG	fra	fr	top-to-bottom	fr_MG	-	-
+fr_ML	left-to-right	ML	マリ	フランス語	fr_ML	フランス語 (マリ)	フランス語 (マリ)	-	-	-	MLI	fra	fr	top-to-bottom	fr_ML	-	-
+fr_MQ	left-to-right	MQ	マルティニーク	フランス語	fr_MQ	フランス語 (マルティニーク)	フランス語 (マルティニーク)	-	-	-	MTQ	fra	fr	top-to-bottom	fr_MQ	-	-
+fr_MR	left-to-right	MR	モーリタニア	フランス語	fr_MR	フランス語 (モーリタニア)	フランス語 (モーリタニア)	-	-	-	MRT	fra	fr	top-to-bottom	fr_MR	-	-
+fr_MU	left-to-right	MU	モーリシャス	フランス語	fr_MU	フランス語 (モーリシャス)	フランス語 (モーリシャス)	-	-	-	MUS	fra	fr	top-to-bottom	fr_MU	-	-
+fr_NC	left-to-right	NC	ニューカレドニア	フランス語	fr_NC	フランス語 (ニューカレドニア)	フランス語 (ニューカレドニア)	-	-	-	NCL	fra	fr	top-to-bottom	fr_NC	-	-
+fr_NE	left-to-right	NE	ニジェール	フランス語	fr_NE	フランス語 (ニジェール)	フランス語 (ニジェール)	-	-	-	NER	fra	fr	top-to-bottom	fr_NE	-	-
+fr_PF	left-to-right	PF	仏領ポリネシア	フランス語	fr_PF	フランス語 (仏領ポリネシア)	フランス語 (仏領ポリネシア)	-	-	-	PYF	fra	fr	top-to-bottom	fr_PF	-	-
+fr_PM	left-to-right	PM	サンピエール島・ミクロン島	フランス語	fr_PM	フランス語 (サンピエール島・ミクロン島)	フランス語 (サンピエール島・ミクロン島)	-	-	-	SPM	fra	fr	top-to-bottom	fr_PM	-	-
+fr_RE	left-to-right	RE	レユニオン	フランス語	fr_RE	フランス語 (レユニオン)	フランス語 (レユニオン)	-	-	-	REU	fra	fr	top-to-bottom	fr_RE	-	-
+fr_RW	left-to-right	RW	ルワンダ	フランス語	fr_RW	フランス語 (ルワンダ)	フランス語 (ルワンダ)	-	-	-	RWA	fra	fr	top-to-bottom	fr_RW	-	-
+fr_SC	left-to-right	SC	セーシェル	フランス語	fr_SC	フランス語 (セーシェル)	フランス語 (セーシェル)	-	-	-	SYC	fra	fr	top-to-bottom	fr_SC	-	-
+fr_SN	left-to-right	SN	セネガル	フランス語	fr_SN	フランス語 (セネガル)	フランス語 (セネガル)	-	-	-	SEN	fra	fr	top-to-bottom	fr_SN	-	-
+fr_SY	left-to-right	SY	シリア	フランス語	fr_SY	フランス語 (シリア)	フランス語 (シリア)	-	-	-	SYR	fra	fr	top-to-bottom	fr_SY	-	-
+fr_TD	left-to-right	TD	チャド	フランス語	fr_TD	フランス語 (チャド)	フランス語 (チャド)	-	-	-	TCD	fra	fr	top-to-bottom	fr_TD	-	-
+fr_TG	left-to-right	TG	トーゴ	フランス語	fr_TG	フランス語 (トーゴ)	フランス語 (トーゴ)	-	-	-	TGO	fra	fr	top-to-bottom	fr_TG	-	-
+fr_TN	left-to-right	TN	チュニジア	フランス語	fr_TN	フランス語 (チュニジア)	フランス語 (チュニジア)	-	-	-	TUN	fra	fr	top-to-bottom	fr_TN	-	-
+fr_VU	left-to-right	VU	バヌアツ	フランス語	fr_VU	フランス語 (バヌアツ)	フランス語 (バヌアツ)	-	-	-	VUT	fra	fr	top-to-bottom	fr_VU	-	-
+fr_WF	left-to-right	WF	ウォリス・フツナ	フランス語	fr_WF	フランス語 (ウォリス・フツナ)	フランス語 (ウォリス・フツナ)	-	-	-	WLF	fra	fr	top-to-bottom	fr_WF	-	-
+fr_YT	left-to-right	YT	マヨット	フランス語	fr_YT	フランス語 (マヨット)	フランス語 (マヨット)	-	-	-	MYT	fra	fr	top-to-bottom	fr_YT	-	-
+fur	left-to-right	-	-	フリウリ語	フリウリ語	フリウリ語	フリウリ語	-	-	-	-	fur	fur	top-to-bottom	fur	-	-
+fur_IT	left-to-right	IT	イタリア	フリウリ語	fur_IT	フリウリ語 (イタリア)	フリウリ語 (イタリア)	-	-	-	ITA	fur	fur	top-to-bottom	fur_IT	-	-
+fy	left-to-right	-	-	西フリジア語	西フリジア語	西フリジア語	西フリジア語	-	-	-	-	fry	fy	top-to-bottom	fy	-	-
+fy_NL	left-to-right	NL	オランダ	西フリジア語	fy_NL	西フリジア語 (オランダ)	西フリジア語 (オランダ)	-	-	-	NLD	fry	fy	top-to-bottom	fy_NL	-	-
+ga	left-to-right	-	-	アイルランド語	アイルランド語	アイルランド語	アイルランド語	-	-	-	-	gle	ga	top-to-bottom	ga	-	-
+ga_GB	left-to-right	GB	イギリス	アイルランド語	ga_GB	アイルランド語 (イギリス)	アイルランド語 (イギリス)	-	-	-	GBR	gle	ga	top-to-bottom	ga_GB	-	-
+ga_IE	left-to-right	IE	アイルランド	アイルランド語	ga_IE	アイルランド語 (アイルランド)	アイルランド語 (アイルランド)	-	-	-	IRL	gle	ga	top-to-bottom	ga_IE	-	-
+gd	left-to-right	-	-	スコットランド・ゲール語	スコットランド・ゲール語	スコットランド・ゲール語	スコットランド・ゲール語	-	-	-	-	gla	gd	top-to-bottom	gd	-	-
+gd_GB	left-to-right	GB	イギリス	スコットランド・ゲール語	gd_GB	スコットランド・ゲール語 (イギリス)	スコットランド・ゲール語 (イギリス)	-	-	-	GBR	gla	gd	top-to-bottom	gd_GB	-	-
+gl	left-to-right	-	-	ガリシア語	ガリシア語	ガリシア語	ガリシア語	-	-	-	-	glg	gl	top-to-bottom	gl	-	-
+gl_ES	left-to-right	ES	スペイン	ガリシア語	gl_ES	ガリシア語 (スペイン)	ガリシア語 (スペイン)	-	-	-	ESP	glg	gl	top-to-bottom	gl_ES	-	-
+gsw	left-to-right	-	-	スイスドイツ語	スイスドイツ語	スイスドイツ語	スイスドイツ語	-	-	-	-	gsw	gsw	top-to-bottom	gsw	-	-
+gsw_CH	left-to-right	CH	スイス	スイスドイツ語	gsw_CH	スイスドイツ語 (スイス)	スイスドイツ語 (スイス)	-	-	-	CHE	gsw	gsw	top-to-bottom	gsw_CH	-	-
+gsw_FR	left-to-right	FR	フランス	スイスドイツ語	gsw_FR	スイスドイツ語 (フランス)	スイスドイツ語 (フランス)	-	-	-	FRA	gsw	gsw	top-to-bottom	gsw_FR	-	-
+gsw_LI	left-to-right	LI	リヒテンシュタイン	スイスドイツ語	gsw_LI	スイスドイツ語 (リヒテンシュタイン)	スイスドイツ語 (リヒテンシュタイン)	-	-	-	LIE	gsw	gsw	top-to-bottom	gsw_LI	-	-
+gu	left-to-right	-	-	グジャラート語	グジャラート語	グジャラート語	グジャラート語	-	-	-	-	guj	gu	top-to-bottom	gu	-	-
+gu_IN	left-to-right	IN	インド	グジャラート語	gu_IN	グジャラート語 (インド)	グジャラート語 (インド)	-	-	-	IND	guj	gu	top-to-bottom	gu_IN	-	-
+guz	left-to-right	-	-	グシイ語	グシイ語	グシイ語	グシイ語	-	-	-	-	guz	guz	top-to-bottom	guz	-	-
+guz_KE	left-to-right	KE	ケニア	グシイ語	guz_KE	グシイ語 (ケニア)	グシイ語 (ケニア)	-	-	-	KEN	guz	guz	top-to-bottom	guz_KE	-	-
+gv	left-to-right	-	-	マン島語	マン島語	マン島語	マン島語	-	-	-	-	glv	gv	top-to-bottom	gv	-	-
+gv_IM	left-to-right	IM	マン島	マン島語	gv_IM	マン島語 (マン島)	マン島語 (マン島)	-	-	-	IMN	glv	gv	top-to-bottom	gv_IM	-	-
+ha	left-to-right	-	-	ハウサ語	ハウサ語	ハウサ語	ハウサ語	-	-	-	-	hau	ha	top-to-bottom	ha	-	-
+ha_GH	left-to-right	GH	ガーナ	ハウサ語	ha_GH	ハウサ語 (ガーナ)	ハウサ語 (ガーナ)	-	-	-	GHA	hau	ha	top-to-bottom	ha_GH	-	-
+ha_NE	left-to-right	NE	ニジェール	ハウサ語	ha_NE	ハウサ語 (ニジェール)	ハウサ語 (ニジェール)	-	-	-	NER	hau	ha	top-to-bottom	ha_NE	-	-
+ha_NG	left-to-right	NG	ナイジェリア	ハウサ語	ha_NG	ハウサ語 (ナイジェリア)	ハウサ語 (ナイジェリア)	-	-	-	NGA	hau	ha	top-to-bottom	ha_NG	-	-
+haw	left-to-right	-	-	ハワイ語	ハワイ語	ハワイ語	ハワイ語	-	-	-	-	haw	haw	top-to-bottom	haw	-	-
+haw_US	left-to-right	US	アメリカ合衆国	ハワイ語	haw_US	ハワイ語 (アメリカ合衆国)	ハワイ語 (アメリカ合衆国)	-	-	-	USA	haw	haw	top-to-bottom	haw_US	-	-
+he	right-to-left	-	-	ヘブライ語	ヘブライ語	ヘブライ語	ヘブライ語	-	-	-	-	heb	he	top-to-bottom	he	-	-
+he_IL	right-to-left	IL	イスラエル	ヘブライ語	he_IL	ヘブライ語 (イスラエル)	ヘブライ語 (イスラエル)	-	-	-	ISR	heb	he	top-to-bottom	he_IL	-	-
+hi	left-to-right	-	-	ヒンディー語	ヒンディー語	ヒンディー語	ヒンディー語	-	-	-	-	hin	hi	top-to-bottom	hi	-	-
+hi_IN	left-to-right	IN	インド	ヒンディー語	hi_IN	ヒンディー語 (インド)	ヒンディー語 (インド)	-	-	-	IND	hin	hi	top-to-bottom	hi_IN	-	-
+hr	left-to-right	-	-	クロアチア語	クロアチア語	クロアチア語	クロアチア語	-	-	-	-	hrv	hr	top-to-bottom	hr	-	-
+hr_BA	left-to-right	BA	ボスニア・ヘルツェゴビナ	クロアチア語	hr_BA	クロアチア語 (ボスニア・ヘルツェゴビナ)	クロアチア語 (ボスニア・ヘルツェゴビナ)	-	-	-	BIH	hrv	hr	top-to-bottom	hr_BA	-	-
+hr_HR	left-to-right	HR	クロアチア	クロアチア語	hr_HR	クロアチア語 (クロアチア)	クロアチア語 (クロアチア)	-	-	-	HRV	hrv	hr	top-to-bottom	hr_HR	-	-
+hsb	left-to-right	-	-	高地ソルブ語	高地ソルブ語	高地ソルブ語	高地ソルブ語	-	-	-	-	hsb	hsb	top-to-bottom	hsb	-	-
+hsb_DE	left-to-right	DE	ドイツ	高地ソルブ語	hsb_DE	高地ソルブ語 (ドイツ)	高地ソルブ語 (ドイツ)	-	-	-	DEU	hsb	hsb	top-to-bottom	hsb_DE	-	-
+hu	left-to-right	-	-	ハンガリー語	ハンガリー語	ハンガリー語	ハンガリー語	-	-	-	-	hun	hu	top-to-bottom	hu	-	-
+hu_HU	left-to-right	HU	ハンガリー	ハンガリー語	hu_HU	ハンガリー語 (ハンガリー)	ハンガリー語 (ハンガリー)	-	-	-	HUN	hun	hu	top-to-bottom	hu_HU	-	-
+hy	left-to-right	-	-	アルメニア語	アルメニア語	アルメニア語	アルメニア語	-	-	-	-	hye	hy	top-to-bottom	hy	-	-
+hy_AM	left-to-right	AM	アルメニア	アルメニア語	hy_AM	アルメニア語 (アルメニア)	アルメニア語 (アルメニア)	-	-	-	ARM	hye	hy	top-to-bottom	hy_AM	-	-
+ia	left-to-right	-	-	インターリングア	インターリングア	インターリングア	インターリングア	-	-	-	-	ina	ia	top-to-bottom	ia	-	-
+ia_001	left-to-right	001	世界	インターリングア	ia_001	インターリングア (世界)	インターリングア (世界)	-	-	-	-	ina	ia	top-to-bottom	ia_001	-	-
+id	left-to-right	-	-	インドネシア語	インドネシア語	インドネシア語	インドネシア語	-	-	-	-	ind	id	top-to-bottom	id	-	-
+id_ID	left-to-right	ID	インドネシア	インドネシア語	id_ID	インドネシア語 (インドネシア)	インドネシア語 (インドネシア)	-	-	-	IDN	ind	id	top-to-bottom	id_ID	-	-
+ig	left-to-right	-	-	イボ語	イボ語	イボ語	イボ語	-	-	-	-	ibo	ig	top-to-bottom	ig	-	-
+ig_NG	left-to-right	NG	ナイジェリア	イボ語	ig_NG	イボ語 (ナイジェリア)	イボ語 (ナイジェリア)	-	-	-	NGA	ibo	ig	top-to-bottom	ig_NG	-	-
+ii	left-to-right	-	-	四川イ語	四川イ語	四川イ語	四川イ語	-	-	-	-	iii	ii	top-to-bottom	ii	-	-
+ii_CN	left-to-right	CN	中国	四川イ語	ii_CN	四川イ語 (中国)	四川イ語 (中国)	-	-	-	CHN	iii	ii	top-to-bottom	ii_CN	-	-
+is	left-to-right	-	-	アイスランド語	アイスランド語	アイスランド語	アイスランド語	-	-	-	-	isl	is	top-to-bottom	is	-	-
+is_IS	left-to-right	IS	アイスランド	アイスランド語	is_IS	アイスランド語 (アイスランド)	アイスランド語 (アイスランド)	-	-	-	ISL	isl	is	top-to-bottom	is_IS	-	-
+it	left-to-right	-	-	イタリア語	イタリア語	イタリア語	イタリア語	-	-	-	-	ita	it	top-to-bottom	it	-	-
+it_CH	left-to-right	CH	スイス	イタリア語	it_CH	イタリア語 (スイス)	イタリア語 (スイス)	-	-	-	CHE	ita	it	top-to-bottom	it_CH	-	-
+it_IT	left-to-right	IT	イタリア	イタリア語	it_IT	イタリア語 (イタリア)	イタリア語 (イタリア)	-	-	-	ITA	ita	it	top-to-bottom	it_IT	-	-
+it_SM	left-to-right	SM	サンマリノ	イタリア語	it_SM	イタリア語 (サンマリノ)	イタリア語 (サンマリノ)	-	-	-	SMR	ita	it	top-to-bottom	it_SM	-	-
+it_VA	left-to-right	VA	バチカン市国	イタリア語	it_VA	イタリア語 (バチカン市国)	イタリア語 (バチカン市国)	-	-	-	VAT	ita	it	top-to-bottom	it_VA	-	-
+ja	left-to-right	-	-	日本語	日本語	日本語	日本語	-	-	-	-	jpn	ja	top-to-bottom	ja	-	-
+ja_JP	left-to-right	JP	日本	日本語	ja_JP	日本語 (日本)	日本語 (日本)	-	-	-	JPN	jpn	ja	top-to-bottom	ja_JP	-	-
+jgo	left-to-right	-	-	ンゴンバ語	ンゴンバ語	ンゴンバ語	ンゴンバ語	-	-	-	-	jgo	jgo	top-to-bottom	jgo	-	-
+jgo_CM	left-to-right	CM	カメルーン	ンゴンバ語	jgo_CM	ンゴンバ語 (カメルーン)	ンゴンバ語 (カメルーン)	-	-	-	CMR	jgo	jgo	top-to-bottom	jgo_CM	-	-
+jmc	left-to-right	-	-	マチャメ語	マチャメ語	マチャメ語	マチャメ語	-	-	-	-	jmc	jmc	top-to-bottom	jmc	-	-
+jmc_TZ	left-to-right	TZ	タンザニア	マチャメ語	jmc_TZ	マチャメ語 (タンザニア)	マチャメ語 (タンザニア)	-	-	-	TZA	jmc	jmc	top-to-bottom	jmc_TZ	-	-
+jv	left-to-right	-	-	ジャワ語	ジャワ語	ジャワ語	ジャワ語	-	-	-	-	jav	jv	top-to-bottom	jv	-	-
+jv_ID	left-to-right	ID	インドネシア	ジャワ語	jv_ID	ジャワ語 (インドネシア)	ジャワ語 (インドネシア)	-	-	-	IDN	jav	jv	top-to-bottom	jv_ID	-	-
+ka	left-to-right	-	-	ジョージア語	ジョージア語	ジョージア語	ジョージア語	-	-	-	-	kat	ka	top-to-bottom	ka	-	-
+ka_GE	left-to-right	GE	ジョージア	ジョージア語	ka_GE	ジョージア語 (ジョージア)	ジョージア語 (ジョージア)	-	-	-	GEO	kat	ka	top-to-bottom	ka_GE	-	-
+kab	left-to-right	-	-	カビル語	カビル語	カビル語	カビル語	-	-	-	-	kab	kab	top-to-bottom	kab	-	-
+kab_DZ	left-to-right	DZ	アルジェリア	カビル語	kab_DZ	カビル語 (アルジェリア)	カビル語 (アルジェリア)	-	-	-	DZA	kab	kab	top-to-bottom	kab_DZ	-	-
+kam	left-to-right	-	-	カンバ語	カンバ語	カンバ語	カンバ語	-	-	-	-	kam	kam	top-to-bottom	kam	-	-
+kam_KE	left-to-right	KE	ケニア	カンバ語	kam_KE	カンバ語 (ケニア)	カンバ語 (ケニア)	-	-	-	KEN	kam	kam	top-to-bottom	kam_KE	-	-
+kde	left-to-right	-	-	マコンデ語	マコンデ語	マコンデ語	マコンデ語	-	-	-	-	kde	kde	top-to-bottom	kde	-	-
+kde_TZ	left-to-right	TZ	タンザニア	マコンデ語	kde_TZ	マコンデ語 (タンザニア)	マコンデ語 (タンザニア)	-	-	-	TZA	kde	kde	top-to-bottom	kde_TZ	-	-
+kea	left-to-right	-	-	カーボベルデ・クレオール語	カーボベルデ・クレオール語	カーボベルデ・クレオール語	カーボベルデ・クレオール語	-	-	-	-	kea	kea	top-to-bottom	kea	-	-
+kea_CV	left-to-right	CV	カーボベルデ	カーボベルデ・クレオール語	kea_CV	カーボベルデ・クレオール語 (カーボベルデ)	カーボベルデ・クレオール語 (カーボベルデ)	-	-	-	CPV	kea	kea	top-to-bottom	kea_CV	-	-
+khq	left-to-right	-	-	コイラ・チーニ語	コイラ・チーニ語	コイラ・チーニ語	コイラ・チーニ語	-	-	-	-	khq	khq	top-to-bottom	khq	-	-
+khq_ML	left-to-right	ML	マリ	コイラ・チーニ語	khq_ML	コイラ・チーニ語 (マリ)	コイラ・チーニ語 (マリ)	-	-	-	MLI	khq	khq	top-to-bottom	khq_ML	-	-
+ki	left-to-right	-	-	キクユ語	キクユ語	キクユ語	キクユ語	-	-	-	-	kik	ki	top-to-bottom	ki	-	-
+ki_KE	left-to-right	KE	ケニア	キクユ語	ki_KE	キクユ語 (ケニア)	キクユ語 (ケニア)	-	-	-	KEN	kik	ki	top-to-bottom	ki_KE	-	-
+kk	left-to-right	-	-	カザフ語	カザフ語	カザフ語	カザフ語	-	-	-	-	kaz	kk	top-to-bottom	kk	-	-
+kk_KZ	left-to-right	KZ	カザフスタン	カザフ語	kk_KZ	カザフ語 (カザフスタン)	カザフ語 (カザフスタン)	-	-	-	KAZ	kaz	kk	top-to-bottom	kk_KZ	-	-
+kkj	left-to-right	-	-	カコ語	カコ語	カコ語	カコ語	-	-	-	-	kkj	kkj	top-to-bottom	kkj	-	-
+kkj_CM	left-to-right	CM	カメルーン	カコ語	kkj_CM	カコ語 (カメルーン)	カコ語 (カメルーン)	-	-	-	CMR	kkj	kkj	top-to-bottom	kkj_CM	-	-
+kl	left-to-right	-	-	グリーンランド語	グリーンランド語	グリーンランド語	グリーンランド語	-	-	-	-	kal	kl	top-to-bottom	kl	-	-
+kl_GL	left-to-right	GL	グリーンランド	グリーンランド語	kl_GL	グリーンランド語 (グリーンランド)	グリーンランド語 (グリーンランド)	-	-	-	GRL	kal	kl	top-to-bottom	kl_GL	-	-
+kln	left-to-right	-	-	カレンジン語	カレンジン語	カレンジン語	カレンジン語	-	-	-	-	kln	kln	top-to-bottom	kln	-	-
+kln_KE	left-to-right	KE	ケニア	カレンジン語	kln_KE	カレンジン語 (ケニア)	カレンジン語 (ケニア)	-	-	-	KEN	kln	kln	top-to-bottom	kln_KE	-	-
+km	left-to-right	-	-	クメール語	クメール語	クメール語	クメール語	-	-	-	-	khm	km	top-to-bottom	km	-	-
+km_KH	left-to-right	KH	カンボジア	クメール語	km_KH	クメール語 (カンボジア)	クメール語 (カンボジア)	-	-	-	KHM	khm	km	top-to-bottom	km_KH	-	-
+kn	left-to-right	-	-	カンナダ語	カンナダ語	カンナダ語	カンナダ語	-	-	-	-	kan	kn	top-to-bottom	kn	-	-
+kn_IN	left-to-right	IN	インド	カンナダ語	kn_IN	カンナダ語 (インド)	カンナダ語 (インド)	-	-	-	IND	kan	kn	top-to-bottom	kn_IN	-	-
+ko	left-to-right	-	-	韓国語	韓国語	韓国語	韓国語	-	-	-	-	kor	ko	top-to-bottom	ko	-	-
+ko_KP	left-to-right	KP	北朝鮮	韓国語	ko_KP	韓国語 (北朝鮮)	韓国語 (北朝鮮)	-	-	-	PRK	kor	ko	top-to-bottom	ko_KP	-	-
+ko_KR	left-to-right	KR	韓国	韓国語	ko_KR	韓国語 (韓国)	韓国語 (韓国)	-	-	-	KOR	kor	ko	top-to-bottom	ko_KR	-	-
+kok	left-to-right	-	-	コンカニ語	コンカニ語	コンカニ語	コンカニ語	-	-	-	-	kok	kok	top-to-bottom	kok	-	-
+kok_IN	left-to-right	IN	インド	コンカニ語	kok_IN	コンカニ語 (インド)	コンカニ語 (インド)	-	-	-	IND	kok	kok	top-to-bottom	kok_IN	-	-
+ks	right-to-left	-	-	カシミール語	カシミール語	カシミール語	カシミール語	-	-	-	-	kas	ks	top-to-bottom	ks	-	-
+ks_Arab	right-to-left	-	-	カシミール語	ks_Arab	カシミール語 (アラビア文字)	カシミール語 (アラビア文字)	アラビア文字	アラビア文字	-	-	kas	ks	top-to-bottom	ks_Arab	Arab	-
+ks_Arab_IN	right-to-left	IN	インド	カシミール語	ks_Arab_IN	カシミール語 (アラビア文字、インド)	カシミール語 (アラビア文字、インド)	アラビア文字	アラビア文字	-	IND	kas	ks	top-to-bottom	ks_Arab_IN	Arab	-
+ksb	left-to-right	-	-	サンバー語	サンバー語	サンバー語	サンバー語	-	-	-	-	ksb	ksb	top-to-bottom	ksb	-	-
+ksb_TZ	left-to-right	TZ	タンザニア	サンバー語	ksb_TZ	サンバー語 (タンザニア)	サンバー語 (タンザニア)	-	-	-	TZA	ksb	ksb	top-to-bottom	ksb_TZ	-	-
+ksf	left-to-right	-	-	バフィア語	バフィア語	バフィア語	バフィア語	-	-	-	-	ksf	ksf	top-to-bottom	ksf	-	-
+ksf_CM	left-to-right	CM	カメルーン	バフィア語	ksf_CM	バフィア語 (カメルーン)	バフィア語 (カメルーン)	-	-	-	CMR	ksf	ksf	top-to-bottom	ksf_CM	-	-
+ksh	left-to-right	-	-	ケルン語	ケルン語	ケルン語	ケルン語	-	-	-	-	ksh	ksh	top-to-bottom	ksh	-	-
+ksh_DE	left-to-right	DE	ドイツ	ケルン語	ksh_DE	ケルン語 (ドイツ)	ケルン語 (ドイツ)	-	-	-	DEU	ksh	ksh	top-to-bottom	ksh_DE	-	-
+ku	left-to-right	-	-	クルド語	クルド語	クルド語	クルド語	-	-	-	-	kur	ku	top-to-bottom	ku	-	-
+ku_TR	left-to-right	TR	トルコ	クルド語	ku_TR	クルド語 (トルコ)	クルド語 (トルコ)	-	-	-	TUR	kur	ku	top-to-bottom	ku_TR	-	-
+kw	left-to-right	-	-	コーンウォール語	コーンウォール語	コーンウォール語	コーンウォール語	-	-	-	-	cor	kw	top-to-bottom	kw	-	-
+kw_GB	left-to-right	GB	イギリス	コーンウォール語	kw_GB	コーンウォール語 (イギリス)	コーンウォール語 (イギリス)	-	-	-	GBR	cor	kw	top-to-bottom	kw_GB	-	-
+ky	left-to-right	-	-	キルギス語	キルギス語	キルギス語	キルギス語	-	-	-	-	kir	ky	top-to-bottom	ky	-	-
+ky_KG	left-to-right	KG	キルギス	キルギス語	ky_KG	キルギス語 (キルギス)	キルギス語 (キルギス)	-	-	-	KGZ	kir	ky	top-to-bottom	ky_KG	-	-
+lag	left-to-right	-	-	ランギ語	ランギ語	ランギ語	ランギ語	-	-	-	-	lag	lag	top-to-bottom	lag	-	-
+lag_TZ	left-to-right	TZ	タンザニア	ランギ語	lag_TZ	ランギ語 (タンザニア)	ランギ語 (タンザニア)	-	-	-	TZA	lag	lag	top-to-bottom	lag_TZ	-	-
+lb	left-to-right	-	-	ルクセンブルク語	ルクセンブルク語	ルクセンブルク語	ルクセンブルク語	-	-	-	-	ltz	lb	top-to-bottom	lb	-	-
+lb_LU	left-to-right	LU	ルクセンブルク	ルクセンブルク語	lb_LU	ルクセンブルク語 (ルクセンブルク)	ルクセンブルク語 (ルクセンブルク)	-	-	-	LUX	ltz	lb	top-to-bottom	lb_LU	-	-
+lg	left-to-right	-	-	ガンダ語	ガンダ語	ガンダ語	ガンダ語	-	-	-	-	lug	lg	top-to-bottom	lg	-	-
+lg_UG	left-to-right	UG	ウガンダ	ガンダ語	lg_UG	ガンダ語 (ウガンダ)	ガンダ語 (ウガンダ)	-	-	-	UGA	lug	lg	top-to-bottom	lg_UG	-	-
+lkt	left-to-right	-	-	ラコタ語	ラコタ語	ラコタ語	ラコタ語	-	-	-	-	lkt	lkt	top-to-bottom	lkt	-	-
+lkt_US	left-to-right	US	アメリカ合衆国	ラコタ語	lkt_US	ラコタ語 (アメリカ合衆国)	ラコタ語 (アメリカ合衆国)	-	-	-	USA	lkt	lkt	top-to-bottom	lkt_US	-	-
+ln	left-to-right	-	-	リンガラ語	リンガラ語	リンガラ語	リンガラ語	-	-	-	-	lin	ln	top-to-bottom	ln	-	-
+ln_AO	left-to-right	AO	アンゴラ	リンガラ語	ln_AO	リンガラ語 (アンゴラ)	リンガラ語 (アンゴラ)	-	-	-	AGO	lin	ln	top-to-bottom	ln_AO	-	-
+ln_CD	left-to-right	CD	コンゴ民主共和国(キンシャサ)	リンガラ語	ln_CD	リンガラ語 (コンゴ民主共和国[キンシャサ])	リンガラ語 (コンゴ民主共和国[キンシャサ])	-	-	-	COD	lin	ln	top-to-bottom	ln_CD	-	-
+ln_CF	left-to-right	CF	中央アフリカ共和国	リンガラ語	ln_CF	リンガラ語 (中央アフリカ共和国)	リンガラ語 (中央アフリカ共和国)	-	-	-	CAF	lin	ln	top-to-bottom	ln_CF	-	-
+ln_CG	left-to-right	CG	コンゴ共和国(ブラザビル)	リンガラ語	ln_CG	リンガラ語 (コンゴ共和国[ブラザビル])	リンガラ語 (コンゴ共和国[ブラザビル])	-	-	-	COG	lin	ln	top-to-bottom	ln_CG	-	-
+lo	left-to-right	-	-	ラオ語	ラオ語	ラオ語	ラオ語	-	-	-	-	lao	lo	top-to-bottom	lo	-	-
+lo_LA	left-to-right	LA	ラオス	ラオ語	lo_LA	ラオ語 (ラオス)	ラオ語 (ラオス)	-	-	-	LAO	lao	lo	top-to-bottom	lo_LA	-	-
+lrc	right-to-left	-	-	北ロル語	北ロル語	北ロル語	北ロル語	-	-	-	-	-	lrc	top-to-bottom	lrc	-	-
+lrc_IQ	right-to-left	IQ	イラク	北ロル語	lrc_IQ	北ロル語 (イラク)	北ロル語 (イラク)	-	-	-	IRQ	-	lrc	top-to-bottom	lrc_IQ	-	-
+lrc_IR	right-to-left	IR	イラン	北ロル語	lrc_IR	北ロル語 (イラン)	北ロル語 (イラン)	-	-	-	IRN	-	lrc	top-to-bottom	lrc_IR	-	-
+lt	left-to-right	-	-	リトアニア語	リトアニア語	リトアニア語	リトアニア語	-	-	-	-	lit	lt	top-to-bottom	lt	-	-
+lt_LT	left-to-right	LT	リトアニア	リトアニア語	lt_LT	リトアニア語 (リトアニア)	リトアニア語 (リトアニア)	-	-	-	LTU	lit	lt	top-to-bottom	lt_LT	-	-
+lu	left-to-right	-	-	ルバ・カタンガ語	ルバ・カタンガ語	ルバ・カタンガ語	ルバ・カタンガ語	-	-	-	-	lub	lu	top-to-bottom	lu	-	-
+lu_CD	left-to-right	CD	コンゴ民主共和国(キンシャサ)	ルバ・カタンガ語	lu_CD	ルバ・カタンガ語 (コンゴ民主共和国[キンシャサ])	ルバ・カタンガ語 (コンゴ民主共和国[キンシャサ])	-	-	-	COD	lub	lu	top-to-bottom	lu_CD	-	-
+luo	left-to-right	-	-	ルオ語	ルオ語	ルオ語	ルオ語	-	-	-	-	luo	luo	top-to-bottom	luo	-	-
+luo_KE	left-to-right	KE	ケニア	ルオ語	luo_KE	ルオ語 (ケニア)	ルオ語 (ケニア)	-	-	-	KEN	luo	luo	top-to-bottom	luo_KE	-	-
+luy	left-to-right	-	-	ルヒヤ語	ルヒヤ語	ルヒヤ語	ルヒヤ語	-	-	-	-	luy	luy	top-to-bottom	luy	-	-
+luy_KE	left-to-right	KE	ケニア	ルヒヤ語	luy_KE	ルヒヤ語 (ケニア)	ルヒヤ語 (ケニア)	-	-	-	KEN	luy	luy	top-to-bottom	luy_KE	-	-
+lv	left-to-right	-	-	ラトビア語	ラトビア語	ラトビア語	ラトビア語	-	-	-	-	lav	lv	top-to-bottom	lv	-	-
+lv_LV	left-to-right	LV	ラトビア	ラトビア語	lv_LV	ラトビア語 (ラトビア)	ラトビア語 (ラトビア)	-	-	-	LVA	lav	lv	top-to-bottom	lv_LV	-	-
+mai	left-to-right	-	-	マイティリー語	マイティリー語	マイティリー語	マイティリー語	-	-	-	-	mai	mai	top-to-bottom	mai	-	-
+mai_IN	left-to-right	IN	インド	マイティリー語	mai_IN	マイティリー語 (インド)	マイティリー語 (インド)	-	-	-	IND	mai	mai	top-to-bottom	mai_IN	-	-
+mas	left-to-right	-	-	マサイ語	マサイ語	マサイ語	マサイ語	-	-	-	-	mas	mas	top-to-bottom	mas	-	-
+mas_KE	left-to-right	KE	ケニア	マサイ語	mas_KE	マサイ語 (ケニア)	マサイ語 (ケニア)	-	-	-	KEN	mas	mas	top-to-bottom	mas_KE	-	-
+mas_TZ	left-to-right	TZ	タンザニア	マサイ語	mas_TZ	マサイ語 (タンザニア)	マサイ語 (タンザニア)	-	-	-	TZA	mas	mas	top-to-bottom	mas_TZ	-	-
+mer	left-to-right	-	-	メル語	メル語	メル語	メル語	-	-	-	-	mer	mer	top-to-bottom	mer	-	-
+mer_KE	left-to-right	KE	ケニア	メル語	mer_KE	メル語 (ケニア)	メル語 (ケニア)	-	-	-	KEN	mer	mer	top-to-bottom	mer_KE	-	-
+mfe	left-to-right	-	-	モーリシャス・クレオール語	モーリシャス・クレオール語	モーリシャス・クレオール語	モーリシャス・クレオール語	-	-	-	-	mfe	mfe	top-to-bottom	mfe	-	-
+mfe_MU	left-to-right	MU	モーリシャス	モーリシャス・クレオール語	mfe_MU	モーリシャス・クレオール語 (モーリシャス)	モーリシャス・クレオール語 (モーリシャス)	-	-	-	MUS	mfe	mfe	top-to-bottom	mfe_MU	-	-
+mg	left-to-right	-	-	マダガスカル語	マダガスカル語	マダガスカル語	マダガスカル語	-	-	-	-	mlg	mg	top-to-bottom	mg	-	-
+mg_MG	left-to-right	MG	マダガスカル	マダガスカル語	mg_MG	マダガスカル語 (マダガスカル)	マダガスカル語 (マダガスカル)	-	-	-	MDG	mlg	mg	top-to-bottom	mg_MG	-	-
+mgh	left-to-right	-	-	マクア・ミート語	マクア・ミート語	マクア・ミート語	マクア・ミート語	-	-	-	-	mgh	mgh	top-to-bottom	mgh	-	-
+mgh_MZ	left-to-right	MZ	モザンビーク	マクア・ミート語	mgh_MZ	マクア・ミート語 (モザンビーク)	マクア・ミート語 (モザンビーク)	-	-	-	MOZ	mgh	mgh	top-to-bottom	mgh_MZ	-	-
+mgo	left-to-right	-	-	メタ語	メタ語	メタ語	メタ語	-	-	-	-	mgo	mgo	top-to-bottom	mgo	-	-
+mgo_CM	left-to-right	CM	カメルーン	メタ語	mgo_CM	メタ語 (カメルーン)	メタ語 (カメルーン)	-	-	-	CMR	mgo	mgo	top-to-bottom	mgo_CM	-	-
+mi	left-to-right	-	-	マオリ語	マオリ語	マオリ語	マオリ語	-	-	-	-	mri	mi	top-to-bottom	mi	-	-
+mi_NZ	left-to-right	NZ	ニュージーランド	マオリ語	mi_NZ	マオリ語 (ニュージーランド)	マオリ語 (ニュージーランド)	-	-	-	NZL	mri	mi	top-to-bottom	mi_NZ	-	-
+mk	left-to-right	-	-	マケドニア語	マケドニア語	マケドニア語	マケドニア語	-	-	-	-	mkd	mk	top-to-bottom	mk	-	-
+mk_MK	left-to-right	MK	北マケドニア	マケドニア語	mk_MK	マケドニア語 (北マケドニア)	マケドニア語 (北マケドニア)	-	-	-	MKD	mkd	mk	top-to-bottom	mk_MK	-	-
+ml	left-to-right	-	-	マラヤーラム語	マラヤーラム語	マラヤーラム語	マラヤーラム語	-	-	-	-	mal	ml	top-to-bottom	ml	-	-
+ml_IN	left-to-right	IN	インド	マラヤーラム語	ml_IN	マラヤーラム語 (インド)	マラヤーラム語 (インド)	-	-	-	IND	mal	ml	top-to-bottom	ml_IN	-	-
+mn	left-to-right	-	-	モンゴル語	モンゴル語	モンゴル語	モンゴル語	-	-	-	-	mon	mn	top-to-bottom	mn	-	-
+mn_MN	left-to-right	MN	モンゴル	モンゴル語	mn_MN	モンゴル語 (モンゴル)	モンゴル語 (モンゴル)	-	-	-	MNG	mon	mn	top-to-bottom	mn_MN	-	-
+mni	left-to-right	-	-	マニプリ語	マニプリ語	マニプリ語	マニプリ語	-	-	-	-	mni	mni	top-to-bottom	mni	-	-
+mni_Beng	left-to-right	-	-	マニプリ語	mni_Beng	マニプリ語 (ベンガル文字)	マニプリ語 (ベンガル文字)	ベンガル文字	ベンガル文字	-	-	mni	mni	top-to-bottom	mni_Beng	Beng	-
+mni_Beng_IN	left-to-right	IN	インド	マニプリ語	mni_Beng_IN	マニプリ語 (ベンガル文字、インド)	マニプリ語 (ベンガル文字、インド)	ベンガル文字	ベンガル文字	-	IND	mni	mni	top-to-bottom	mni_Beng_IN	Beng	-
+mr	left-to-right	-	-	マラーティー語	マラーティー語	マラーティー語	マラーティー語	-	-	-	-	mar	mr	top-to-bottom	mr	-	-
+mr_IN	left-to-right	IN	インド	マラーティー語	mr_IN	マラーティー語 (インド)	マラーティー語 (インド)	-	-	-	IND	mar	mr	top-to-bottom	mr_IN	-	-
+ms	left-to-right	-	-	マレー語	マレー語	マレー語	マレー語	-	-	-	-	msa	ms	top-to-bottom	ms	-	-
+ms_BN	left-to-right	BN	ブルネイ	マレー語	ms_BN	マレー語 (ブルネイ)	マレー語 (ブルネイ)	-	-	-	BRN	msa	ms	top-to-bottom	ms_BN	-	-
+ms_ID	left-to-right	ID	インドネシア	マレー語	ms_ID	マレー語 (インドネシア)	マレー語 (インドネシア)	-	-	-	IDN	msa	ms	top-to-bottom	ms_ID	-	-
+ms_MY	left-to-right	MY	マレーシア	マレー語	ms_MY	マレー語 (マレーシア)	マレー語 (マレーシア)	-	-	-	MYS	msa	ms	top-to-bottom	ms_MY	-	-
+ms_SG	left-to-right	SG	シンガポール	マレー語	ms_SG	マレー語 (シンガポール)	マレー語 (シンガポール)	-	-	-	SGP	msa	ms	top-to-bottom	ms_SG	-	-
+mt	left-to-right	-	-	マルタ語	マルタ語	マルタ語	マルタ語	-	-	-	-	mlt	mt	top-to-bottom	mt	-	-
+mt_MT	left-to-right	MT	マルタ	マルタ語	mt_MT	マルタ語 (マルタ)	マルタ語 (マルタ)	-	-	-	MLT	mlt	mt	top-to-bottom	mt_MT	-	-
+mua	left-to-right	-	-	ムンダン語	ムンダン語	ムンダン語	ムンダン語	-	-	-	-	mua	mua	top-to-bottom	mua	-	-
+mua_CM	left-to-right	CM	カメルーン	ムンダン語	mua_CM	ムンダン語 (カメルーン)	ムンダン語 (カメルーン)	-	-	-	CMR	mua	mua	top-to-bottom	mua_CM	-	-
+my	left-to-right	-	-	ミャンマー語	ミャンマー語	ミャンマー語	ミャンマー語	-	-	-	-	mya	my	top-to-bottom	my	-	-
+my_MM	left-to-right	MM	ミャンマー (ビルマ)	ミャンマー語	my_MM	ミャンマー語 (ミャンマー [ビルマ])	ミャンマー語 (ミャンマー [ビルマ])	-	-	-	MMR	mya	my	top-to-bottom	my_MM	-	-
+mzn	right-to-left	-	-	マーザンダラーン語	マーザンダラーン語	マーザンダラーン語	マーザンダラーン語	-	-	-	-	-	mzn	top-to-bottom	mzn	-	-
+mzn_IR	right-to-left	IR	イラン	マーザンダラーン語	mzn_IR	マーザンダラーン語 (イラン)	マーザンダラーン語 (イラン)	-	-	-	IRN	-	mzn	top-to-bottom	mzn_IR	-	-
+naq	left-to-right	-	-	ナマ語	ナマ語	ナマ語	ナマ語	-	-	-	-	naq	naq	top-to-bottom	naq	-	-
+naq_NA	left-to-right	NA	ナミビア	ナマ語	naq_NA	ナマ語 (ナミビア)	ナマ語 (ナミビア)	-	-	-	NAM	naq	naq	top-to-bottom	naq_NA	-	-
+nb	left-to-right	-	-	ノルウェー語(ブークモール)	ノルウェー語(ブークモール)	ノルウェー語[ブークモール]	ノルウェー語[ブークモール]	-	-	-	-	nob	nb	top-to-bottom	nb	-	-
+nb_NO	left-to-right	NO	ノルウェー	ノルウェー語(ブークモール)	nb_NO	ノルウェー語[ブークモール] (ノルウェー)	ノルウェー語[ブークモール] (ノルウェー)	-	-	-	NOR	nob	nb	top-to-bottom	nb_NO	-	-
+nb_SJ	left-to-right	SJ	スバールバル諸島・ヤンマイエン島	ノルウェー語(ブークモール)	nb_SJ	ノルウェー語[ブークモール] (スバールバル諸島・ヤンマイエン島)	ノルウェー語[ブークモール] (スバールバル諸島・ヤンマイエン島)	-	-	-	SJM	nob	nb	top-to-bottom	nb_SJ	-	-
+nd	left-to-right	-	-	北ンデベレ語	北ンデベレ語	北ンデベレ語	北ンデベレ語	-	-	-	-	nde	nd	top-to-bottom	nd	-	-
+nd_ZW	left-to-right	ZW	ジンバブエ	北ンデベレ語	nd_ZW	北ンデベレ語 (ジンバブエ)	北ンデベレ語 (ジンバブエ)	-	-	-	ZWE	nde	nd	top-to-bottom	nd_ZW	-	-
+nds	left-to-right	-	-	低地ドイツ語	低地ドイツ語	低地ドイツ語	低地ドイツ語	-	-	-	-	nds	nds	top-to-bottom	nds	-	-
+nds_DE	left-to-right	DE	ドイツ	低地ドイツ語	nds_DE	低地ドイツ語 (ドイツ)	低地ドイツ語 (ドイツ)	-	-	-	DEU	nds	nds	top-to-bottom	nds_DE	-	-
+nds_NL	left-to-right	NL	オランダ	低地ドイツ語	nds_NL	低地ドイツ語 (オランダ)	低地ドイツ語 (オランダ)	-	-	-	NLD	nds	nds	top-to-bottom	nds_NL	-	-
+ne	left-to-right	-	-	ネパール語	ネパール語	ネパール語	ネパール語	-	-	-	-	nep	ne	top-to-bottom	ne	-	-
+ne_IN	left-to-right	IN	インド	ネパール語	ne_IN	ネパール語 (インド)	ネパール語 (インド)	-	-	-	IND	nep	ne	top-to-bottom	ne_IN	-	-
+ne_NP	left-to-right	NP	ネパール	ネパール語	ne_NP	ネパール語 (ネパール)	ネパール語 (ネパール)	-	-	-	NPL	nep	ne	top-to-bottom	ne_NP	-	-
+nl	left-to-right	-	-	オランダ語	オランダ語	オランダ語	オランダ語	-	-	-	-	nld	nl	top-to-bottom	nl	-	-
+nl_AW	left-to-right	AW	アルバ	オランダ語	nl_AW	オランダ語 (アルバ)	オランダ語 (アルバ)	-	-	-	ABW	nld	nl	top-to-bottom	nl_AW	-	-
+nl_BE	left-to-right	BE	ベルギー	オランダ語	nl_BE	オランダ語 (ベルギー)	フレミッシュ語	-	-	-	BEL	nld	nl	top-to-bottom	nl_BE	-	-
+nl_BQ	left-to-right	BQ	オランダ領カリブ	オランダ語	nl_BQ	オランダ語 (オランダ領カリブ)	オランダ語 (オランダ領カリブ)	-	-	-	BES	nld	nl	top-to-bottom	nl_BQ	-	-
+nl_CW	left-to-right	CW	キュラソー	オランダ語	nl_CW	オランダ語 (キュラソー)	オランダ語 (キュラソー)	-	-	-	CUW	nld	nl	top-to-bottom	nl_CW	-	-
+nl_NL	left-to-right	NL	オランダ	オランダ語	nl_NL	オランダ語 (オランダ)	オランダ語 (オランダ)	-	-	-	NLD	nld	nl	top-to-bottom	nl_NL	-	-
+nl_SR	left-to-right	SR	スリナム	オランダ語	nl_SR	オランダ語 (スリナム)	オランダ語 (スリナム)	-	-	-	SUR	nld	nl	top-to-bottom	nl_SR	-	-
+nl_SX	left-to-right	SX	シント・マールテン	オランダ語	nl_SX	オランダ語 (シント・マールテン)	オランダ語 (シント・マールテン)	-	-	-	SXM	nld	nl	top-to-bottom	nl_SX	-	-
+nmg	left-to-right	-	-	クワシオ語	クワシオ語	クワシオ語	クワシオ語	-	-	-	-	nmg	nmg	top-to-bottom	nmg	-	-
+nmg_CM	left-to-right	CM	カメルーン	クワシオ語	nmg_CM	クワシオ語 (カメルーン)	クワシオ語 (カメルーン)	-	-	-	CMR	nmg	nmg	top-to-bottom	nmg_CM	-	-
+nn	left-to-right	-	-	ノルウェー語(ニーノシュク)	ノルウェー語(ニーノシュク)	ノルウェー語[ニーノシュク]	ノルウェー語[ニーノシュク]	-	-	-	-	nno	nn	top-to-bottom	nn	-	-
+nn_NO	left-to-right	NO	ノルウェー	ノルウェー語(ニーノシュク)	nn_NO	ノルウェー語[ニーノシュク] (ノルウェー)	ノルウェー語[ニーノシュク] (ノルウェー)	-	-	-	NOR	nno	nn	top-to-bottom	nn_NO	-	-
+nnh	left-to-right	-	-	ンジエムブーン語	ンジエムブーン語	ンジエムブーン語	ンジエムブーン語	-	-	-	-	nnh	nnh	top-to-bottom	nnh	-	-
+nnh_CM	left-to-right	CM	カメルーン	ンジエムブーン語	nnh_CM	ンジエムブーン語 (カメルーン)	ンジエムブーン語 (カメルーン)	-	-	-	CMR	nnh	nnh	top-to-bottom	nnh_CM	-	-
+nus	left-to-right	-	-	ヌエル語	ヌエル語	ヌエル語	ヌエル語	-	-	-	-	nus	nus	top-to-bottom	nus	-	-
+nus_SS	left-to-right	SS	南スーダン	ヌエル語	nus_SS	ヌエル語 (南スーダン)	ヌエル語 (南スーダン)	-	-	-	SSD	nus	nus	top-to-bottom	nus_SS	-	-
+nyn	left-to-right	-	-	ニャンコレ語	ニャンコレ語	ニャンコレ語	ニャンコレ語	-	-	-	-	nyn	nyn	top-to-bottom	nyn	-	-
+nyn_UG	left-to-right	UG	ウガンダ	ニャンコレ語	nyn_UG	ニャンコレ語 (ウガンダ)	ニャンコレ語 (ウガンダ)	-	-	-	UGA	nyn	nyn	top-to-bottom	nyn_UG	-	-
+om	left-to-right	-	-	オロモ語	オロモ語	オロモ語	オロモ語	-	-	-	-	orm	om	top-to-bottom	om	-	-
+om_ET	left-to-right	ET	エチオピア	オロモ語	om_ET	オロモ語 (エチオピア)	オロモ語 (エチオピア)	-	-	-	ETH	orm	om	top-to-bottom	om_ET	-	-
+om_KE	left-to-right	KE	ケニア	オロモ語	om_KE	オロモ語 (ケニア)	オロモ語 (ケニア)	-	-	-	KEN	orm	om	top-to-bottom	om_KE	-	-
+or	left-to-right	-	-	オディア語	オディア語	オディア語	オディア語	-	-	-	-	ori	or	top-to-bottom	or	-	-
+or_IN	left-to-right	IN	インド	オディア語	or_IN	オディア語 (インド)	オディア語 (インド)	-	-	-	IND	ori	or	top-to-bottom	or_IN	-	-
+os	left-to-right	-	-	オセット語	オセット語	オセット語	オセット語	-	-	-	-	oss	os	top-to-bottom	os	-	-
+os_GE	left-to-right	GE	ジョージア	オセット語	os_GE	オセット語 (ジョージア)	オセット語 (ジョージア)	-	-	-	GEO	oss	os	top-to-bottom	os_GE	-	-
+os_RU	left-to-right	RU	ロシア	オセット語	os_RU	オセット語 (ロシア)	オセット語 (ロシア)	-	-	-	RUS	oss	os	top-to-bottom	os_RU	-	-
+pa	left-to-right	-	-	パンジャブ語	パンジャブ語	パンジャブ語	パンジャブ語	-	-	-	-	pan	pa	top-to-bottom	pa	-	-
+pa_Arab	right-to-left	-	-	パンジャブ語	pa_Arab	パンジャブ語 (アラビア文字)	パンジャブ語 (アラビア文字)	アラビア文字	アラビア文字	-	-	pan	pa	top-to-bottom	pa_Arab	Arab	-
+pa_Arab_PK	right-to-left	PK	パキスタン	パンジャブ語	pa_Arab_PK	パンジャブ語 (アラビア文字、パキスタン)	パンジャブ語 (アラビア文字、パキスタン)	アラビア文字	アラビア文字	-	PAK	pan	pa	top-to-bottom	pa_Arab_PK	Arab	-
+pa_Guru	left-to-right	-	-	パンジャブ語	pa_Guru	パンジャブ語 (グルムキー文字)	パンジャブ語 (グルムキー文字)	グルムキー文字	グルムキー文字	-	-	pan	pa	top-to-bottom	pa_Guru	Guru	-
+pa_Guru_IN	left-to-right	IN	インド	パンジャブ語	pa_Guru_IN	パンジャブ語 (グルムキー文字、インド)	パンジャブ語 (グルムキー文字、インド)	グルムキー文字	グルムキー文字	-	IND	pan	pa	top-to-bottom	pa_Guru_IN	Guru	-
+pcm	left-to-right	-	-	ナイジェリア・ピジン語	ナイジェリア・ピジン語	ナイジェリア・ピジン語	ナイジェリア・ピジン語	-	-	-	-	-	pcm	top-to-bottom	pcm	-	-
+pcm_NG	left-to-right	NG	ナイジェリア	ナイジェリア・ピジン語	pcm_NG	ナイジェリア・ピジン語 (ナイジェリア)	ナイジェリア・ピジン語 (ナイジェリア)	-	-	-	NGA	-	pcm	top-to-bottom	pcm_NG	-	-
+pl	left-to-right	-	-	ポーランド語	ポーランド語	ポーランド語	ポーランド語	-	-	-	-	pol	pl	top-to-bottom	pl	-	-
+pl_PL	left-to-right	PL	ポーランド	ポーランド語	pl_PL	ポーランド語 (ポーランド)	ポーランド語 (ポーランド)	-	-	-	POL	pol	pl	top-to-bottom	pl_PL	-	-
+ps	right-to-left	-	-	パシュトゥー語	パシュトゥー語	パシュトゥー語	パシュトゥー語	-	-	-	-	pus	ps	top-to-bottom	ps	-	-
+ps_AF	right-to-left	AF	アフガニスタン	パシュトゥー語	ps_AF	パシュトゥー語 (アフガニスタン)	パシュトゥー語 (アフガニスタン)	-	-	-	AFG	pus	ps	top-to-bottom	ps_AF	-	-
+ps_PK	right-to-left	PK	パキスタン	パシュトゥー語	ps_PK	パシュトゥー語 (パキスタン)	パシュトゥー語 (パキスタン)	-	-	-	PAK	pus	ps	top-to-bottom	ps_PK	-	-
+pt	left-to-right	-	-	ポルトガル語	ポルトガル語	ポルトガル語	ポルトガル語	-	-	-	-	por	pt	top-to-bottom	pt	-	-
+pt_AO	left-to-right	AO	アンゴラ	ポルトガル語	pt_AO	ポルトガル語 (アンゴラ)	ポルトガル語 (アンゴラ)	-	-	-	AGO	por	pt	top-to-bottom	pt_AO	-	-
+pt_BR	left-to-right	BR	ブラジル	ポルトガル語	pt_BR	ポルトガル語 (ブラジル)	ポルトガル語 (ブラジル)	-	-	-	BRA	por	pt	top-to-bottom	pt_BR	-	-
+pt_CH	left-to-right	CH	スイス	ポルトガル語	pt_CH	ポルトガル語 (スイス)	ポルトガル語 (スイス)	-	-	-	CHE	por	pt	top-to-bottom	pt_CH	-	-
+pt_CV	left-to-right	CV	カーボベルデ	ポルトガル語	pt_CV	ポルトガル語 (カーボベルデ)	ポルトガル語 (カーボベルデ)	-	-	-	CPV	por	pt	top-to-bottom	pt_CV	-	-
+pt_GQ	left-to-right	GQ	赤道ギニア	ポルトガル語	pt_GQ	ポルトガル語 (赤道ギニア)	ポルトガル語 (赤道ギニア)	-	-	-	GNQ	por	pt	top-to-bottom	pt_GQ	-	-
+pt_GW	left-to-right	GW	ギニアビサウ	ポルトガル語	pt_GW	ポルトガル語 (ギニアビサウ)	ポルトガル語 (ギニアビサウ)	-	-	-	GNB	por	pt	top-to-bottom	pt_GW	-	-
+pt_LU	left-to-right	LU	ルクセンブルク	ポルトガル語	pt_LU	ポルトガル語 (ルクセンブルク)	ポルトガル語 (ルクセンブルク)	-	-	-	LUX	por	pt	top-to-bottom	pt_LU	-	-
+pt_MO	left-to-right	MO	中華人民共和国マカオ特別行政区	ポルトガル語	pt_MO	ポルトガル語 (中華人民共和国マカオ特別行政区)	ポルトガル語 (中華人民共和国マカオ特別行政区)	-	-	-	MAC	por	pt	top-to-bottom	pt_MO	-	-
+pt_MZ	left-to-right	MZ	モザンビーク	ポルトガル語	pt_MZ	ポルトガル語 (モザンビーク)	ポルトガル語 (モザンビーク)	-	-	-	MOZ	por	pt	top-to-bottom	pt_MZ	-	-
+pt_PT	left-to-right	PT	ポルトガル	ポルトガル語	pt_PT	ポルトガル語 (ポルトガル)	ポルトガル語 (イベリア半島)	-	-	-	PRT	por	pt	top-to-bottom	pt_PT	-	-
+pt_ST	left-to-right	ST	サントメ・プリンシペ	ポルトガル語	pt_ST	ポルトガル語 (サントメ・プリンシペ)	ポルトガル語 (サントメ・プリンシペ)	-	-	-	STP	por	pt	top-to-bottom	pt_ST	-	-
+pt_TL	left-to-right	TL	東ティモール	ポルトガル語	pt_TL	ポルトガル語 (東ティモール)	ポルトガル語 (東ティモール)	-	-	-	TLS	por	pt	top-to-bottom	pt_TL	-	-
+qu	left-to-right	-	-	ケチュア語	ケチュア語	ケチュア語	ケチュア語	-	-	-	-	que	qu	top-to-bottom	qu	-	-
+qu_BO	left-to-right	BO	ボリビア	ケチュア語	qu_BO	ケチュア語 (ボリビア)	ケチュア語 (ボリビア)	-	-	-	BOL	que	qu	top-to-bottom	qu_BO	-	-
+qu_EC	left-to-right	EC	エクアドル	ケチュア語	qu_EC	ケチュア語 (エクアドル)	ケチュア語 (エクアドル)	-	-	-	ECU	que	qu	top-to-bottom	qu_EC	-	-
+qu_PE	left-to-right	PE	ペルー	ケチュア語	qu_PE	ケチュア語 (ペルー)	ケチュア語 (ペルー)	-	-	-	PER	que	qu	top-to-bottom	qu_PE	-	-
+rm	left-to-right	-	-	ロマンシュ語	ロマンシュ語	ロマンシュ語	ロマンシュ語	-	-	-	-	roh	rm	top-to-bottom	rm	-	-
+rm_CH	left-to-right	CH	スイス	ロマンシュ語	rm_CH	ロマンシュ語 (スイス)	ロマンシュ語 (スイス)	-	-	-	CHE	roh	rm	top-to-bottom	rm_CH	-	-
+rn	left-to-right	-	-	ルンディ語	ルンディ語	ルンディ語	ルンディ語	-	-	-	-	run	rn	top-to-bottom	rn	-	-
+rn_BI	left-to-right	BI	ブルンジ	ルンディ語	rn_BI	ルンディ語 (ブルンジ)	ルンディ語 (ブルンジ)	-	-	-	BDI	run	rn	top-to-bottom	rn_BI	-	-
+ro	left-to-right	-	-	ルーマニア語	ルーマニア語	ルーマニア語	ルーマニア語	-	-	-	-	ron	ro	top-to-bottom	ro	-	-
+ro_MD	left-to-right	MD	モルドバ	ルーマニア語	ro_MD	ルーマニア語 (モルドバ)	モルダビア語	-	-	-	MDA	ron	ro	top-to-bottom	ro_MD	-	-
+ro_RO	left-to-right	RO	ルーマニア	ルーマニア語	ro_RO	ルーマニア語 (ルーマニア)	ルーマニア語 (ルーマニア)	-	-	-	ROU	ron	ro	top-to-bottom	ro_RO	-	-
+rof	left-to-right	-	-	ロンボ語	ロンボ語	ロンボ語	ロンボ語	-	-	-	-	rof	rof	top-to-bottom	rof	-	-
+rof_TZ	left-to-right	TZ	タンザニア	ロンボ語	rof_TZ	ロンボ語 (タンザニア)	ロンボ語 (タンザニア)	-	-	-	TZA	rof	rof	top-to-bottom	rof_TZ	-	-
+ru	left-to-right	-	-	ロシア語	ロシア語	ロシア語	ロシア語	-	-	-	-	rus	ru	top-to-bottom	ru	-	-
+ru_BY	left-to-right	BY	ベラルーシ	ロシア語	ru_BY	ロシア語 (ベラルーシ)	ロシア語 (ベラルーシ)	-	-	-	BLR	rus	ru	top-to-bottom	ru_BY	-	-
+ru_KG	left-to-right	KG	キルギス	ロシア語	ru_KG	ロシア語 (キルギス)	ロシア語 (キルギス)	-	-	-	KGZ	rus	ru	top-to-bottom	ru_KG	-	-
+ru_KZ	left-to-right	KZ	カザフスタン	ロシア語	ru_KZ	ロシア語 (カザフスタン)	ロシア語 (カザフスタン)	-	-	-	KAZ	rus	ru	top-to-bottom	ru_KZ	-	-
+ru_MD	left-to-right	MD	モルドバ	ロシア語	ru_MD	ロシア語 (モルドバ)	ロシア語 (モルドバ)	-	-	-	MDA	rus	ru	top-to-bottom	ru_MD	-	-
+ru_RU	left-to-right	RU	ロシア	ロシア語	ru_RU	ロシア語 (ロシア)	ロシア語 (ロシア)	-	-	-	RUS	rus	ru	top-to-bottom	ru_RU	-	-
+ru_UA	left-to-right	UA	ウクライナ	ロシア語	ru_UA	ロシア語 (ウクライナ)	ロシア語 (ウクライナ)	-	-	-	UKR	rus	ru	top-to-bottom	ru_UA	-	-
+rw	left-to-right	-	-	キニアルワンダ語	キニアルワンダ語	キニアルワンダ語	キニアルワンダ語	-	-	-	-	kin	rw	top-to-bottom	rw	-	-
+rw_RW	left-to-right	RW	ルワンダ	キニアルワンダ語	rw_RW	キニアルワンダ語 (ルワンダ)	キニアルワンダ語 (ルワンダ)	-	-	-	RWA	kin	rw	top-to-bottom	rw_RW	-	-
+rwk	left-to-right	-	-	ルワ語	ルワ語	ルワ語	ルワ語	-	-	-	-	rwk	rwk	top-to-bottom	rwk	-	-
+rwk_TZ	left-to-right	TZ	タンザニア	ルワ語	rwk_TZ	ルワ語 (タンザニア)	ルワ語 (タンザニア)	-	-	-	TZA	rwk	rwk	top-to-bottom	rwk_TZ	-	-
+sah	left-to-right	-	-	サハ語	サハ語	サハ語	サハ語	-	-	-	-	sah	sah	top-to-bottom	sah	-	-
+sah_RU	left-to-right	RU	ロシア	サハ語	sah_RU	サハ語 (ロシア)	サハ語 (ロシア)	-	-	-	RUS	sah	sah	top-to-bottom	sah_RU	-	-
+saq	left-to-right	-	-	サンブル語	サンブル語	サンブル語	サンブル語	-	-	-	-	saq	saq	top-to-bottom	saq	-	-
+saq_KE	left-to-right	KE	ケニア	サンブル語	saq_KE	サンブル語 (ケニア)	サンブル語 (ケニア)	-	-	-	KEN	saq	saq	top-to-bottom	saq_KE	-	-
+sat	left-to-right	-	-	サンターリー語	サンターリー語	サンターリー語	サンターリー語	-	-	-	-	sat	sat	top-to-bottom	sat	-	-
+sat_Olck	left-to-right	-	-	サンターリー語	sat_Olck	サンターリー語 (オルチキ文字)	サンターリー語 (オルチキ文字)	オルチキ文字	オルチキ文字	-	-	sat	sat	top-to-bottom	sat_Olck	Olck	-
+sat_Olck_IN	left-to-right	IN	インド	サンターリー語	sat_Olck_IN	サンターリー語 (オルチキ文字、インド)	サンターリー語 (オルチキ文字、インド)	オルチキ文字	オルチキ文字	-	IND	sat	sat	top-to-bottom	sat_Olck_IN	Olck	-
+sbp	left-to-right	-	-	サング語	サング語	サング語	サング語	-	-	-	-	sbp	sbp	top-to-bottom	sbp	-	-
+sbp_TZ	left-to-right	TZ	タンザニア	サング語	sbp_TZ	サング語 (タンザニア)	サング語 (タンザニア)	-	-	-	TZA	sbp	sbp	top-to-bottom	sbp_TZ	-	-
+sd	right-to-left	-	-	シンド語	シンド語	シンド語	シンド語	-	-	-	-	snd	sd	top-to-bottom	sd	-	-
+sd_Arab	right-to-left	-	-	シンド語	sd_Arab	シンド語 (アラビア文字)	シンド語 (アラビア文字)	アラビア文字	アラビア文字	-	-	snd	sd	top-to-bottom	sd_Arab	Arab	-
+sd_Arab_PK	right-to-left	PK	パキスタン	シンド語	sd_Arab_PK	シンド語 (アラビア文字、パキスタン)	シンド語 (アラビア文字、パキスタン)	アラビア文字	アラビア文字	-	PAK	snd	sd	top-to-bottom	sd_Arab_PK	Arab	-
+sd_Deva	left-to-right	-	-	シンド語	sd_Deva	シンド語 (デーバナーガリー文字)	シンド語 (デーバナーガリー文字)	デーバナーガリー文字	デーバナーガリー文字	-	-	snd	sd	top-to-bottom	sd_Deva	Deva	-
+sd_Deva_IN	left-to-right	IN	インド	シンド語	sd_Deva_IN	シンド語 (デーバナーガリー文字、インド)	シンド語 (デーバナーガリー文字、インド)	デーバナーガリー文字	デーバナーガリー文字	-	IND	snd	sd	top-to-bottom	sd_Deva_IN	Deva	-
+se	left-to-right	-	-	北サーミ語	北サーミ語	北サーミ語	北サーミ語	-	-	-	-	sme	se	top-to-bottom	se	-	-
+se_FI	left-to-right	FI	フィンランド	北サーミ語	se_FI	北サーミ語 (フィンランド)	北サーミ語 (フィンランド)	-	-	-	FIN	sme	se	top-to-bottom	se_FI	-	-
+se_NO	left-to-right	NO	ノルウェー	北サーミ語	se_NO	北サーミ語 (ノルウェー)	北サーミ語 (ノルウェー)	-	-	-	NOR	sme	se	top-to-bottom	se_NO	-	-
+se_SE	left-to-right	SE	スウェーデン	北サーミ語	se_SE	北サーミ語 (スウェーデン)	北サーミ語 (スウェーデン)	-	-	-	SWE	sme	se	top-to-bottom	se_SE	-	-
+seh	left-to-right	-	-	セナ語	セナ語	セナ語	セナ語	-	-	-	-	seh	seh	top-to-bottom	seh	-	-
+seh_MZ	left-to-right	MZ	モザンビーク	セナ語	seh_MZ	セナ語 (モザンビーク)	セナ語 (モザンビーク)	-	-	-	MOZ	seh	seh	top-to-bottom	seh_MZ	-	-
+ses	left-to-right	-	-	コイラボロ・センニ語	コイラボロ・センニ語	コイラボロ・センニ語	コイラボロ・センニ語	-	-	-	-	ses	ses	top-to-bottom	ses	-	-
+ses_ML	left-to-right	ML	マリ	コイラボロ・センニ語	ses_ML	コイラボロ・センニ語 (マリ)	コイラボロ・センニ語 (マリ)	-	-	-	MLI	ses	ses	top-to-bottom	ses_ML	-	-
+sg	left-to-right	-	-	サンゴ語	サンゴ語	サンゴ語	サンゴ語	-	-	-	-	sag	sg	top-to-bottom	sg	-	-
+sg_CF	left-to-right	CF	中央アフリカ共和国	サンゴ語	sg_CF	サンゴ語 (中央アフリカ共和国)	サンゴ語 (中央アフリカ共和国)	-	-	-	CAF	sag	sg	top-to-bottom	sg_CF	-	-
+shi	left-to-right	-	-	タシルハイト語	タシルハイト語	タシルハイト語	タシルハイト語	-	-	-	-	shi	shi	top-to-bottom	shi	-	-
+shi_Latn	left-to-right	-	-	タシルハイト語	shi_Latn	タシルハイト語 (ラテン文字)	タシルハイト語 (ラテン文字)	ラテン文字	ラテン文字	-	-	shi	shi	top-to-bottom	shi_Latn	Latn	-
+shi_Latn_MA	left-to-right	MA	モロッコ	タシルハイト語	shi_Latn_MA	タシルハイト語 (ラテン文字、モロッコ)	タシルハイト語 (ラテン文字、モロッコ)	ラテン文字	ラテン文字	-	MAR	shi	shi	top-to-bottom	shi_Latn_MA	Latn	-
+shi_Tfng	left-to-right	-	-	タシルハイト語	shi_Tfng	タシルハイト語 (ティフナグ文字)	タシルハイト語 (ティフナグ文字)	ティフナグ文字	ティフナグ文字	-	-	shi	shi	top-to-bottom	shi_Tfng	Tfng	-
+shi_Tfng_MA	left-to-right	MA	モロッコ	タシルハイト語	shi_Tfng_MA	タシルハイト語 (ティフナグ文字、モロッコ)	タシルハイト語 (ティフナグ文字、モロッコ)	ティフナグ文字	ティフナグ文字	-	MAR	shi	shi	top-to-bottom	shi_Tfng_MA	Tfng	-
+si	left-to-right	-	-	シンハラ語	シンハラ語	シンハラ語	シンハラ語	-	-	-	-	sin	si	top-to-bottom	si	-	-
+si_LK	left-to-right	LK	スリランカ	シンハラ語	si_LK	シンハラ語 (スリランカ)	シンハラ語 (スリランカ)	-	-	-	LKA	sin	si	top-to-bottom	si_LK	-	-
+sk	left-to-right	-	-	スロバキア語	スロバキア語	スロバキア語	スロバキア語	-	-	-	-	slk	sk	top-to-bottom	sk	-	-
+sk_SK	left-to-right	SK	スロバキア	スロバキア語	sk_SK	スロバキア語 (スロバキア)	スロバキア語 (スロバキア)	-	-	-	SVK	slk	sk	top-to-bottom	sk_SK	-	-
+sl	left-to-right	-	-	スロベニア語	スロベニア語	スロベニア語	スロベニア語	-	-	-	-	slv	sl	top-to-bottom	sl	-	-
+sl_SI	left-to-right	SI	スロベニア	スロベニア語	sl_SI	スロベニア語 (スロベニア)	スロベニア語 (スロベニア)	-	-	-	SVN	slv	sl	top-to-bottom	sl_SI	-	-
+smn	left-to-right	-	-	イナリ・サーミ語	イナリ・サーミ語	イナリ・サーミ語	イナリ・サーミ語	-	-	-	-	smn	smn	top-to-bottom	smn	-	-
+smn_FI	left-to-right	FI	フィンランド	イナリ・サーミ語	smn_FI	イナリ・サーミ語 (フィンランド)	イナリ・サーミ語 (フィンランド)	-	-	-	FIN	smn	smn	top-to-bottom	smn_FI	-	-
+sn	left-to-right	-	-	ショナ語	ショナ語	ショナ語	ショナ語	-	-	-	-	sna	sn	top-to-bottom	sn	-	-
+sn_ZW	left-to-right	ZW	ジンバブエ	ショナ語	sn_ZW	ショナ語 (ジンバブエ)	ショナ語 (ジンバブエ)	-	-	-	ZWE	sna	sn	top-to-bottom	sn_ZW	-	-
+so	left-to-right	-	-	ソマリ語	ソマリ語	ソマリ語	ソマリ語	-	-	-	-	som	so	top-to-bottom	so	-	-
+so_DJ	left-to-right	DJ	ジブチ	ソマリ語	so_DJ	ソマリ語 (ジブチ)	ソマリ語 (ジブチ)	-	-	-	DJI	som	so	top-to-bottom	so_DJ	-	-
+so_ET	left-to-right	ET	エチオピア	ソマリ語	so_ET	ソマリ語 (エチオピア)	ソマリ語 (エチオピア)	-	-	-	ETH	som	so	top-to-bottom	so_ET	-	-
+so_KE	left-to-right	KE	ケニア	ソマリ語	so_KE	ソマリ語 (ケニア)	ソマリ語 (ケニア)	-	-	-	KEN	som	so	top-to-bottom	so_KE	-	-
+so_SO	left-to-right	SO	ソマリア	ソマリ語	so_SO	ソマリ語 (ソマリア)	ソマリ語 (ソマリア)	-	-	-	SOM	som	so	top-to-bottom	so_SO	-	-
+sq	left-to-right	-	-	アルバニア語	アルバニア語	アルバニア語	アルバニア語	-	-	-	-	sqi	sq	top-to-bottom	sq	-	-
+sq_AL	left-to-right	AL	アルバニア	アルバニア語	sq_AL	アルバニア語 (アルバニア)	アルバニア語 (アルバニア)	-	-	-	ALB	sqi	sq	top-to-bottom	sq_AL	-	-
+sq_MK	left-to-right	MK	北マケドニア	アルバニア語	sq_MK	アルバニア語 (北マケドニア)	アルバニア語 (北マケドニア)	-	-	-	MKD	sqi	sq	top-to-bottom	sq_MK	-	-
+sq_XK	left-to-right	XK	コソボ	アルバニア語	sq_XK	アルバニア語 (コソボ)	アルバニア語 (コソボ)	-	-	-	-	sqi	sq	top-to-bottom	sq_XK	-	-
+sr	left-to-right	-	-	セルビア語	セルビア語	セルビア語	セルビア語	-	-	-	-	srp	sr	top-to-bottom	sr	-	-
+sr_Cyrl	left-to-right	-	-	セルビア語	sr_Cyrl	セルビア語 (キリル文字)	セルビア語 (キリル文字)	キリル文字	キリル文字	-	-	srp	sr	top-to-bottom	sr_Cyrl	Cyrl	-
+sr_Cyrl_BA	left-to-right	BA	ボスニア・ヘルツェゴビナ	セルビア語	sr_Cyrl_BA	セルビア語 (キリル文字、ボスニア・ヘルツェゴビナ)	セルビア語 (キリル文字、ボスニア・ヘルツェゴビナ)	キリル文字	キリル文字	-	BIH	srp	sr	top-to-bottom	sr_Cyrl_BA	Cyrl	-
+sr_Cyrl_ME	left-to-right	ME	モンテネグロ	セルビア語	sr_Cyrl_ME	セルビア語 (キリル文字、モンテネグロ)	セルビア語 (キリル文字、モンテネグロ)	キリル文字	キリル文字	-	MNE	srp	sr	top-to-bottom	sr_Cyrl_ME	Cyrl	-
+sr_Cyrl_RS	left-to-right	RS	セルビア	セルビア語	sr_Cyrl_RS	セルビア語 (キリル文字、セルビア)	セルビア語 (キリル文字、セルビア)	キリル文字	キリル文字	-	SRB	srp	sr	top-to-bottom	sr_Cyrl_RS	Cyrl	-
+sr_Cyrl_XK	left-to-right	XK	コソボ	セルビア語	sr_Cyrl_XK	セルビア語 (キリル文字、コソボ)	セルビア語 (キリル文字、コソボ)	キリル文字	キリル文字	-	-	srp	sr	top-to-bottom	sr_Cyrl_XK	Cyrl	-
+sr_Latn	left-to-right	-	-	セルビア語	sr_Latn	セルビア語 (ラテン文字)	セルビア語 (ラテン文字)	ラテン文字	ラテン文字	-	-	srp	sr	top-to-bottom	sr_Latn	Latn	-
+sr_Latn_BA	left-to-right	BA	ボスニア・ヘルツェゴビナ	セルビア語	sr_Latn_BA	セルビア語 (ラテン文字、ボスニア・ヘルツェゴビナ)	セルビア語 (ラテン文字、ボスニア・ヘルツェゴビナ)	ラテン文字	ラテン文字	-	BIH	srp	sr	top-to-bottom	sr_Latn_BA	Latn	-
+sr_Latn_ME	left-to-right	ME	モンテネグロ	セルビア語	sr_Latn_ME	セルビア語 (ラテン文字、モンテネグロ)	セルビア語 (ラテン文字、モンテネグロ)	ラテン文字	ラテン文字	-	MNE	srp	sr	top-to-bottom	sr_Latn_ME	Latn	-
+sr_Latn_RS	left-to-right	RS	セルビア	セルビア語	sr_Latn_RS	セルビア語 (ラテン文字、セルビア)	セルビア語 (ラテン文字、セルビア)	ラテン文字	ラテン文字	-	SRB	srp	sr	top-to-bottom	sr_Latn_RS	Latn	-
+sr_Latn_XK	left-to-right	XK	コソボ	セルビア語	sr_Latn_XK	セルビア語 (ラテン文字、コソボ)	セルビア語 (ラテン文字、コソボ)	ラテン文字	ラテン文字	-	-	srp	sr	top-to-bottom	sr_Latn_XK	Latn	-
+su	left-to-right	-	-	スンダ語	スンダ語	スンダ語	スンダ語	-	-	-	-	sun	su	top-to-bottom	su	-	-
+su_Latn	left-to-right	-	-	スンダ語	su_Latn	スンダ語 (ラテン文字)	スンダ語 (ラテン文字)	ラテン文字	ラテン文字	-	-	sun	su	top-to-bottom	su_Latn	Latn	-
+su_Latn_ID	left-to-right	ID	インドネシア	スンダ語	su_Latn_ID	スンダ語 (ラテン文字、インドネシア)	スンダ語 (ラテン文字、インドネシア)	ラテン文字	ラテン文字	-	IDN	sun	su	top-to-bottom	su_Latn_ID	Latn	-
+sv	left-to-right	-	-	スウェーデン語	スウェーデン語	スウェーデン語	スウェーデン語	-	-	-	-	swe	sv	top-to-bottom	sv	-	-
+sv_AX	left-to-right	AX	オーランド諸島	スウェーデン語	sv_AX	スウェーデン語 (オーランド諸島)	スウェーデン語 (オーランド諸島)	-	-	-	ALA	swe	sv	top-to-bottom	sv_AX	-	-
+sv_FI	left-to-right	FI	フィンランド	スウェーデン語	sv_FI	スウェーデン語 (フィンランド)	スウェーデン語 (フィンランド)	-	-	-	FIN	swe	sv	top-to-bottom	sv_FI	-	-
+sv_SE	left-to-right	SE	スウェーデン	スウェーデン語	sv_SE	スウェーデン語 (スウェーデン)	スウェーデン語 (スウェーデン)	-	-	-	SWE	swe	sv	top-to-bottom	sv_SE	-	-
+sw	left-to-right	-	-	スワヒリ語	スワヒリ語	スワヒリ語	スワヒリ語	-	-	-	-	swa	sw	top-to-bottom	sw	-	-
+sw_CD	left-to-right	CD	コンゴ民主共和国(キンシャサ)	スワヒリ語	sw_CD	スワヒリ語 (コンゴ民主共和国[キンシャサ])	コンゴ・スワヒリ語	-	-	-	COD	swa	sw	top-to-bottom	sw_CD	-	-
+sw_KE	left-to-right	KE	ケニア	スワヒリ語	sw_KE	スワヒリ語 (ケニア)	スワヒリ語 (ケニア)	-	-	-	KEN	swa	sw	top-to-bottom	sw_KE	-	-
+sw_TZ	left-to-right	TZ	タンザニア	スワヒリ語	sw_TZ	スワヒリ語 (タンザニア)	スワヒリ語 (タンザニア)	-	-	-	TZA	swa	sw	top-to-bottom	sw_TZ	-	-
+sw_UG	left-to-right	UG	ウガンダ	スワヒリ語	sw_UG	スワヒリ語 (ウガンダ)	スワヒリ語 (ウガンダ)	-	-	-	UGA	swa	sw	top-to-bottom	sw_UG	-	-
+ta	left-to-right	-	-	タミル語	タミル語	タミル語	タミル語	-	-	-	-	tam	ta	top-to-bottom	ta	-	-
+ta_IN	left-to-right	IN	インド	タミル語	ta_IN	タミル語 (インド)	タミル語 (インド)	-	-	-	IND	tam	ta	top-to-bottom	ta_IN	-	-
+ta_LK	left-to-right	LK	スリランカ	タミル語	ta_LK	タミル語 (スリランカ)	タミル語 (スリランカ)	-	-	-	LKA	tam	ta	top-to-bottom	ta_LK	-	-
+ta_MY	left-to-right	MY	マレーシア	タミル語	ta_MY	タミル語 (マレーシア)	タミル語 (マレーシア)	-	-	-	MYS	tam	ta	top-to-bottom	ta_MY	-	-
+ta_SG	left-to-right	SG	シンガポール	タミル語	ta_SG	タミル語 (シンガポール)	タミル語 (シンガポール)	-	-	-	SGP	tam	ta	top-to-bottom	ta_SG	-	-
+te	left-to-right	-	-	テルグ語	テルグ語	テルグ語	テルグ語	-	-	-	-	tel	te	top-to-bottom	te	-	-
+te_IN	left-to-right	IN	インド	テルグ語	te_IN	テルグ語 (インド)	テルグ語 (インド)	-	-	-	IND	tel	te	top-to-bottom	te_IN	-	-
+teo	left-to-right	-	-	テソ語	テソ語	テソ語	テソ語	-	-	-	-	teo	teo	top-to-bottom	teo	-	-
+teo_KE	left-to-right	KE	ケニア	テソ語	teo_KE	テソ語 (ケニア)	テソ語 (ケニア)	-	-	-	KEN	teo	teo	top-to-bottom	teo_KE	-	-
+teo_UG	left-to-right	UG	ウガンダ	テソ語	teo_UG	テソ語 (ウガンダ)	テソ語 (ウガンダ)	-	-	-	UGA	teo	teo	top-to-bottom	teo_UG	-	-
+tg	left-to-right	-	-	タジク語	タジク語	タジク語	タジク語	-	-	-	-	tgk	tg	top-to-bottom	tg	-	-
+tg_TJ	left-to-right	TJ	タジキスタン	タジク語	tg_TJ	タジク語 (タジキスタン)	タジク語 (タジキスタン)	-	-	-	TJK	tgk	tg	top-to-bottom	tg_TJ	-	-
+th	left-to-right	-	-	タイ語	タイ語	タイ語	タイ語	-	-	-	-	tha	th	top-to-bottom	th	-	-
+th_TH	left-to-right	TH	タイ	タイ語	th_TH	タイ語 (タイ)	タイ語 (タイ)	-	-	-	THA	tha	th	top-to-bottom	th_TH	-	-
+ti	left-to-right	-	-	ティグリニア語	ティグリニア語	ティグリニア語	ティグリニア語	-	-	-	-	tir	ti	top-to-bottom	ti	-	-
+ti_ER	left-to-right	ER	エリトリア	ティグリニア語	ti_ER	ティグリニア語 (エリトリア)	ティグリニア語 (エリトリア)	-	-	-	ERI	tir	ti	top-to-bottom	ti_ER	-	-
+ti_ET	left-to-right	ET	エチオピア	ティグリニア語	ti_ET	ティグリニア語 (エチオピア)	ティグリニア語 (エチオピア)	-	-	-	ETH	tir	ti	top-to-bottom	ti_ET	-	-
+tk	left-to-right	-	-	トルクメン語	トルクメン語	トルクメン語	トルクメン語	-	-	-	-	tuk	tk	top-to-bottom	tk	-	-
+tk_TM	left-to-right	TM	トルクメニスタン	トルクメン語	tk_TM	トルクメン語 (トルクメニスタン)	トルクメン語 (トルクメニスタン)	-	-	-	TKM	tuk	tk	top-to-bottom	tk_TM	-	-
+to	left-to-right	-	-	トンガ語	トンガ語	トンガ語	トンガ語	-	-	-	-	ton	to	top-to-bottom	to	-	-
+to_TO	left-to-right	TO	トンガ	トンガ語	to_TO	トンガ語 (トンガ)	トンガ語 (トンガ)	-	-	-	TON	ton	to	top-to-bottom	to_TO	-	-
+tr	left-to-right	-	-	トルコ語	トルコ語	トルコ語	トルコ語	-	-	-	-	tur	tr	top-to-bottom	tr	-	-
+tr_CY	left-to-right	CY	キプロス	トルコ語	tr_CY	トルコ語 (キプロス)	トルコ語 (キプロス)	-	-	-	CYP	tur	tr	top-to-bottom	tr_CY	-	-
+tr_TR	left-to-right	TR	トルコ	トルコ語	tr_TR	トルコ語 (トルコ)	トルコ語 (トルコ)	-	-	-	TUR	tur	tr	top-to-bottom	tr_TR	-	-
+tt	left-to-right	-	-	タタール語	タタール語	タタール語	タタール語	-	-	-	-	tat	tt	top-to-bottom	tt	-	-
+tt_RU	left-to-right	RU	ロシア	タタール語	tt_RU	タタール語 (ロシア)	タタール語 (ロシア)	-	-	-	RUS	tat	tt	top-to-bottom	tt_RU	-	-
+twq	left-to-right	-	-	タサワク語	タサワク語	タサワク語	タサワク語	-	-	-	-	twq	twq	top-to-bottom	twq	-	-
+twq_NE	left-to-right	NE	ニジェール	タサワク語	twq_NE	タサワク語 (ニジェール)	タサワク語 (ニジェール)	-	-	-	NER	twq	twq	top-to-bottom	twq_NE	-	-
+tzm	left-to-right	-	-	中央アトラス・タマジクト語	中央アトラス・タマジクト語	中央アトラス・タマジクト語	中央アトラス・タマジクト語	-	-	-	-	tzm	tzm	top-to-bottom	tzm	-	-
+tzm_MA	left-to-right	MA	モロッコ	中央アトラス・タマジクト語	tzm_MA	中央アトラス・タマジクト語 (モロッコ)	中央アトラス・タマジクト語 (モロッコ)	-	-	-	MAR	tzm	tzm	top-to-bottom	tzm_MA	-	-
+ug	right-to-left	-	-	ウイグル語	ウイグル語	ウイグル語	ウイグル語	-	-	-	-	uig	ug	top-to-bottom	ug	-	-
+ug_CN	right-to-left	CN	中国	ウイグル語	ug_CN	ウイグル語 (中国)	ウイグル語 (中国)	-	-	-	CHN	uig	ug	top-to-bottom	ug_CN	-	-
+uk	left-to-right	-	-	ウクライナ語	ウクライナ語	ウクライナ語	ウクライナ語	-	-	-	-	ukr	uk	top-to-bottom	uk	-	-
+uk_UA	left-to-right	UA	ウクライナ	ウクライナ語	uk_UA	ウクライナ語 (ウクライナ)	ウクライナ語 (ウクライナ)	-	-	-	UKR	ukr	uk	top-to-bottom	uk_UA	-	-
+ur	right-to-left	-	-	ウルドゥー語	ウルドゥー語	ウルドゥー語	ウルドゥー語	-	-	-	-	urd	ur	top-to-bottom	ur	-	-
+ur_IN	right-to-left	IN	インド	ウルドゥー語	ur_IN	ウルドゥー語 (インド)	ウルドゥー語 (インド)	-	-	-	IND	urd	ur	top-to-bottom	ur_IN	-	-
+ur_PK	right-to-left	PK	パキスタン	ウルドゥー語	ur_PK	ウルドゥー語 (パキスタン)	ウルドゥー語 (パキスタン)	-	-	-	PAK	urd	ur	top-to-bottom	ur_PK	-	-
+uz	left-to-right	-	-	ウズベク語	ウズベク語	ウズベク語	ウズベク語	-	-	-	-	uzb	uz	top-to-bottom	uz	-	-
+uz_Arab	right-to-left	-	-	ウズベク語	uz_Arab	ウズベク語 (アラビア文字)	ウズベク語 (アラビア文字)	アラビア文字	アラビア文字	-	-	uzb	uz	top-to-bottom	uz_Arab	Arab	-
+uz_Arab_AF	right-to-left	AF	アフガニスタン	ウズベク語	uz_Arab_AF	ウズベク語 (アラビア文字、アフガニスタン)	ウズベク語 (アラビア文字、アフガニスタン)	アラビア文字	アラビア文字	-	AFG	uzb	uz	top-to-bottom	uz_Arab_AF	Arab	-
+uz_Cyrl	left-to-right	-	-	ウズベク語	uz_Cyrl	ウズベク語 (キリル文字)	ウズベク語 (キリル文字)	キリル文字	キリル文字	-	-	uzb	uz	top-to-bottom	uz_Cyrl	Cyrl	-
+uz_Cyrl_UZ	left-to-right	UZ	ウズベキスタン	ウズベク語	uz_Cyrl_UZ	ウズベク語 (キリル文字、ウズベキスタン)	ウズベク語 (キリル文字、ウズベキスタン)	キリル文字	キリル文字	-	UZB	uzb	uz	top-to-bottom	uz_Cyrl_UZ	Cyrl	-
+uz_Latn	left-to-right	-	-	ウズベク語	uz_Latn	ウズベク語 (ラテン文字)	ウズベク語 (ラテン文字)	ラテン文字	ラテン文字	-	-	uzb	uz	top-to-bottom	uz_Latn	Latn	-
+uz_Latn_UZ	left-to-right	UZ	ウズベキスタン	ウズベク語	uz_Latn_UZ	ウズベク語 (ラテン文字、ウズベキスタン)	ウズベク語 (ラテン文字、ウズベキスタン)	ラテン文字	ラテン文字	-	UZB	uzb	uz	top-to-bottom	uz_Latn_UZ	Latn	-
+vai	left-to-right	-	-	ヴァイ語	ヴァイ語	ヴァイ語	ヴァイ語	-	-	-	-	vai	vai	top-to-bottom	vai	-	-
+vai_Latn	left-to-right	-	-	ヴァイ語	vai_Latn	ヴァイ語 (ラテン文字)	ヴァイ語 (ラテン文字)	ラテン文字	ラテン文字	-	-	vai	vai	top-to-bottom	vai_Latn	Latn	-
+vai_Latn_LR	left-to-right	LR	リベリア	ヴァイ語	vai_Latn_LR	ヴァイ語 (ラテン文字、リベリア)	ヴァイ語 (ラテン文字、リベリア)	ラテン文字	ラテン文字	-	LBR	vai	vai	top-to-bottom	vai_Latn_LR	Latn	-
+vai_Vaii	left-to-right	-	-	ヴァイ語	vai_Vaii	ヴァイ語 (ヴァイ文字)	ヴァイ語 (ヴァイ文字)	ヴァイ文字	ヴァイ文字	-	-	vai	vai	top-to-bottom	vai_Vaii	Vaii	-
+vai_Vaii_LR	left-to-right	LR	リベリア	ヴァイ語	vai_Vaii_LR	ヴァイ語 (ヴァイ文字、リベリア)	ヴァイ語 (ヴァイ文字、リベリア)	ヴァイ文字	ヴァイ文字	-	LBR	vai	vai	top-to-bottom	vai_Vaii_LR	Vaii	-
+vi	left-to-right	-	-	ベトナム語	ベトナム語	ベトナム語	ベトナム語	-	-	-	-	vie	vi	top-to-bottom	vi	-	-
+vi_VN	left-to-right	VN	ベトナム	ベトナム語	vi_VN	ベトナム語 (ベトナム)	ベトナム語 (ベトナム)	-	-	-	VNM	vie	vi	top-to-bottom	vi_VN	-	-
+vun	left-to-right	-	-	ヴンジョ語	ヴンジョ語	ヴンジョ語	ヴンジョ語	-	-	-	-	vun	vun	top-to-bottom	vun	-	-
+vun_TZ	left-to-right	TZ	タンザニア	ヴンジョ語	vun_TZ	ヴンジョ語 (タンザニア)	ヴンジョ語 (タンザニア)	-	-	-	TZA	vun	vun	top-to-bottom	vun_TZ	-	-
+wae	left-to-right	-	-	ヴァリス語	ヴァリス語	ヴァリス語	ヴァリス語	-	-	-	-	wae	wae	top-to-bottom	wae	-	-
+wae_CH	left-to-right	CH	スイス	ヴァリス語	wae_CH	ヴァリス語 (スイス)	ヴァリス語 (スイス)	-	-	-	CHE	wae	wae	top-to-bottom	wae_CH	-	-
+wo	left-to-right	-	-	ウォロフ語	ウォロフ語	ウォロフ語	ウォロフ語	-	-	-	-	wol	wo	top-to-bottom	wo	-	-
+wo_SN	left-to-right	SN	セネガル	ウォロフ語	wo_SN	ウォロフ語 (セネガル)	ウォロフ語 (セネガル)	-	-	-	SEN	wol	wo	top-to-bottom	wo_SN	-	-
+xh	left-to-right	-	-	コサ語	コサ語	コサ語	コサ語	-	-	-	-	xho	xh	top-to-bottom	xh	-	-
+xh_ZA	left-to-right	ZA	南アフリカ	コサ語	xh_ZA	コサ語 (南アフリカ)	コサ語 (南アフリカ)	-	-	-	ZAF	xho	xh	top-to-bottom	xh_ZA	-	-
+xog	left-to-right	-	-	ソガ語	ソガ語	ソガ語	ソガ語	-	-	-	-	xog	xog	top-to-bottom	xog	-	-
+xog_UG	left-to-right	UG	ウガンダ	ソガ語	xog_UG	ソガ語 (ウガンダ)	ソガ語 (ウガンダ)	-	-	-	UGA	xog	xog	top-to-bottom	xog_UG	-	-
+yav	left-to-right	-	-	ヤンベン語	ヤンベン語	ヤンベン語	ヤンベン語	-	-	-	-	yav	yav	top-to-bottom	yav	-	-
+yav_CM	left-to-right	CM	カメルーン	ヤンベン語	yav_CM	ヤンベン語 (カメルーン)	ヤンベン語 (カメルーン)	-	-	-	CMR	yav	yav	top-to-bottom	yav_CM	-	-
+yi	right-to-left	-	-	イディッシュ語	イディッシュ語	イディッシュ語	イディッシュ語	-	-	-	-	yid	yi	top-to-bottom	yi	-	-
+yi_001	right-to-left	001	世界	イディッシュ語	yi_001	イディッシュ語 (世界)	イディッシュ語 (世界)	-	-	-	-	yid	yi	top-to-bottom	yi_001	-	-
+yo	left-to-right	-	-	ヨルバ語	ヨルバ語	ヨルバ語	ヨルバ語	-	-	-	-	yor	yo	top-to-bottom	yo	-	-
+yo_BJ	left-to-right	BJ	ベナン	ヨルバ語	yo_BJ	ヨルバ語 (ベナン)	ヨルバ語 (ベナン)	-	-	-	BEN	yor	yo	top-to-bottom	yo_BJ	-	-
+yo_NG	left-to-right	NG	ナイジェリア	ヨルバ語	yo_NG	ヨルバ語 (ナイジェリア)	ヨルバ語 (ナイジェリア)	-	-	-	NGA	yor	yo	top-to-bottom	yo_NG	-	-
+yue	left-to-right	-	-	広東語	広東語	広東語	広東語	-	-	-	-	yue	yue	top-to-bottom	yue	-	-
+yue_Hans	left-to-right	-	-	広東語	yue_Hans	広東語 (簡体字)	広東語 (簡体字)	漢字(簡体字)	簡体字	-	-	yue	yue	top-to-bottom	yue_Hans	Hans	-
+yue_Hans_CN	left-to-right	CN	中国	広東語	yue_Hans_CN	広東語 (簡体字、中国)	広東語 (簡体字、中国)	漢字(簡体字)	簡体字	-	CHN	yue	yue	top-to-bottom	yue_Hans_CN	Hans	-
+yue_Hant	left-to-right	-	-	広東語	yue_Hant	広東語 (繁体字)	広東語 (繁体字)	漢字(繁体字)	繁体字	-	-	yue	yue	top-to-bottom	yue_Hant	Hant	-
+yue_Hant_HK	left-to-right	HK	中華人民共和国香港特別行政区	広東語	yue_Hant_HK	広東語 (繁体字、中華人民共和国香港特別行政区)	広東語 (繁体字、中華人民共和国香港特別行政区)	漢字(繁体字)	繁体字	-	HKG	yue	yue	top-to-bottom	yue_Hant_HK	Hant	-
+zgh	left-to-right	-	-	標準モロッコ タマジクト語	標準モロッコ タマジクト語	標準モロッコ タマジクト語	標準モロッコ タマジクト語	-	-	-	-	-	zgh	top-to-bottom	zgh	-	-
+zgh_MA	left-to-right	MA	モロッコ	標準モロッコ タマジクト語	zgh_MA	標準モロッコ タマジクト語 (モロッコ)	標準モロッコ タマジクト語 (モロッコ)	-	-	-	MAR	-	zgh	top-to-bottom	zgh_MA	-	-
+zh	left-to-right	-	-	中国語	中国語	中国語	中国語	-	-	-	-	zho	zh	top-to-bottom	zh	-	-
+zh_Hans	left-to-right	-	-	中国語	zh_Hans	中国語 (簡体字)	簡体中国語	漢字(簡体字)	簡体字	-	-	zho	zh	top-to-bottom	zh_Hans	Hans	-
+zh_Hans_CN	left-to-right	CN	中国	中国語	zh_Hans_CN	中国語 (簡体字、中国)	簡体中国語 (中国)	漢字(簡体字)	簡体字	-	CHN	zho	zh	top-to-bottom	zh_Hans_CN	Hans	-
+zh_Hans_HK	left-to-right	HK	中華人民共和国香港特別行政区	中国語	zh_Hans_HK	中国語 (簡体字、中華人民共和国香港特別行政区)	簡体中国語 (中華人民共和国香港特別行政区)	漢字(簡体字)	簡体字	-	HKG	zho	zh	top-to-bottom	zh_Hans_HK	Hans	-
+zh_Hans_MO	left-to-right	MO	中華人民共和国マカオ特別行政区	中国語	zh_Hans_MO	中国語 (簡体字、中華人民共和国マカオ特別行政区)	簡体中国語 (中華人民共和国マカオ特別行政区)	漢字(簡体字)	簡体字	-	MAC	zho	zh	top-to-bottom	zh_Hans_MO	Hans	-
+zh_Hans_SG	left-to-right	SG	シンガポール	中国語	zh_Hans_SG	中国語 (簡体字、シンガポール)	簡体中国語 (シンガポール)	漢字(簡体字)	簡体字	-	SGP	zho	zh	top-to-bottom	zh_Hans_SG	Hans	-
+zh_Hant	left-to-right	-	-	中国語	zh_Hant	中国語 (繁体字)	繁体中国語	漢字(繁体字)	繁体字	-	-	zho	zh	top-to-bottom	zh_Hant	Hant	-
+zh_Hant_HK	left-to-right	HK	中華人民共和国香港特別行政区	中国語	zh_Hant_HK	中国語 (繁体字、中華人民共和国香港特別行政区)	繁体中国語 (中華人民共和国香港特別行政区)	漢字(繁体字)	繁体字	-	HKG	zho	zh	top-to-bottom	zh_Hant_HK	Hant	-
+zh_Hant_MO	left-to-right	MO	中華人民共和国マカオ特別行政区	中国語	zh_Hant_MO	中国語 (繁体字、中華人民共和国マカオ特別行政区)	繁体中国語 (中華人民共和国マカオ特別行政区)	漢字(繁体字)	繁体字	-	MAC	zho	zh	top-to-bottom	zh_Hant_MO	Hant	-
+zh_Hant_TW	left-to-right	TW	台湾	中国語	zh_Hant_TW	中国語 (繁体字、台湾)	繁体中国語 (台湾)	漢字(繁体字)	繁体字	-	TWN	zho	zh	top-to-bottom	zh_Hant_TW	Hant	-
+zu	left-to-right	-	-	ズールー語	ズールー語	ズールー語	ズールー語	-	-	-	-	zul	zu	top-to-bottom	zu	-	-
+zu_ZA	left-to-right	ZA	南アフリカ	ズールー語	zu_ZA	ズールー語 (南アフリカ)	ズールー語 (南アフリカ)	-	-	-	ZAF	zul	zu	top-to-bottom	zu_ZA	-	-
