@@ -264,12 +264,10 @@ public class App {
     }
 
     private static Set<Integer> genUnicodeCodePoint(Integer s,Integer e){
-        Set<Integer> codePointList = new LinkedHashSet<>();
-        Set<Integer> lowerLeftCodePointList = IntStream.rangeClosed(s,e).boxed().filter(codePoint->excludeCodePoint(codePoint)).filter(codePoint -> codePoint < (int) Character.MIN_HIGH_SURROGATE).collect(Collectors.toSet());
-        Set<Integer> lowerRightCodePointList = IntStream.rangeClosed(EXCLUDE_CODEPOINT_LIST.stream().max(Integer::compareTo).get() + 1,e).boxed().filter(codePoint->excludeCodePoint(codePoint)).filter(codePoint -> codePoint < (int) Character.MIN_HIGH_SURROGATE).collect(Collectors.toSet());
+        Set<Integer> codePointList = new TreeSet<>();
+        Set<Integer> lowerCodePointList = IntStream.rangeClosed(s,e).boxed().filter(codePoint->excludeCodePoint(codePoint)).filter(codePoint -> codePoint < (int) Character.MIN_HIGH_SURROGATE).collect(Collectors.toSet());
         Set<Integer> upperCodePointList = IntStream.rangeClosed(s,e).boxed().filter(codePoint -> codePoint > (int) Character.MAX_HIGH_SURROGATE).collect(Collectors.toSet());
-        codePointList.addAll(lowerLeftCodePointList);
-        codePointList.addAll(lowerRightCodePointList);
+        codePointList.addAll(lowerCodePointList);
         codePointList.addAll(upperCodePointList);
         return codePointList;
     }
