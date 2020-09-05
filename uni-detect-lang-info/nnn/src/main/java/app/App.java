@@ -1,6 +1,7 @@
 package app;
 
 import com.ibm.icu.lang.UCharacter;
+import com.ibm.icu.text.UnicodeSet;
 import sun.misc.Signal;
 
 import java.util.*;
@@ -120,10 +121,21 @@ public class App {
         Map<Integer,Map<String,Integer>> sortMap = new TreeMap<>(map);
 
         for(Map.Entry<Integer,Map<String,Integer>> entry : sortMap.entrySet()){
+
+            StringBuffer sb = new StringBuffer();
+
+            UnicodeSet unicodeSet = new UnicodeSet();
+
+            unicodeSet.set(entry.getValue().get(CODE_POINT_START),entry.getValue().get(CODE_POINT_END));
+
+            unicodeSet._generatePattern(sb,true);
+
             {
                 System.out.print(entry.getKey());
                 System.out.print(FS);
                 System.out.print(entry.getValue());
+                System.out.print(FS);
+                System.out.print(sb.toString());
             }
             System.out.println();
         }
