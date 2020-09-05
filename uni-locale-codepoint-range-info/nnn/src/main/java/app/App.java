@@ -40,7 +40,16 @@ public class App {
     private static final String FS = "\t";
     private static final String RS = "\n";
 
-    private static List<Map<String,String>> jjj (ULocale uLocale){
+    private static final List<String> OUTPUT_HEADER_LIST = new LinkedList(){{
+        add(LOCALE_NAME);
+        add(DISPLAY_NAME);
+        add(DISPLAY_NAME_WITH_DIALECT);
+        add(PATTERN_CLASS);
+        add(UNICODE_START_END);
+        add(CODE_POINT_START_END);
+    }};
+
+    private static List<Map<String,String>> getLocaleCodePointRangeInfo (ULocale uLocale){
 
         List<Map<String,String>> summaryList = new LinkedList<>();
 
@@ -103,23 +112,30 @@ public class App {
 
 //        ULocale uLocale = new ULocale("af");
 
-        List<Map<String,String>> summaryList = jjj(uLocale);
+        List<Map<String,String>> summaryList = getLocaleCodePointRangeInfo(uLocale);
 
-        for (Map<String,String> entry : summaryList){
+        int cnt = summaryList.size();
+
+        for(int i=0; i < cnt; i++){
+            if (i == 0){
+
+                System.out.println(OUTPUT_HEADER_LIST.stream().collect(Collectors.joining(FS)));
+
+            }
             {
-                System.out.print(entry.get(LOCALE_NAME));
+                System.out.print(summaryList.get(i).get(LOCALE_NAME));
                 System.out.print(FS);
-                System.out.print(entry.get(DISPLAY_NAME));
+                System.out.print(summaryList.get(i).get(DISPLAY_NAME));
                 System.out.print(FS);
-                System.out.print(entry.get(DISPLAY_NAME_WITH_DIALECT));
+                System.out.print(summaryList.get(i).get(DISPLAY_NAME_WITH_DIALECT));
                 System.out.print(FS);
-                System.out.print(entry.get(PATTERN_CLASS));
+                System.out.print(summaryList.get(i).get(PATTERN_CLASS));
                 System.out.print(FS);
-                System.out.print(entry.get(LOCALE_NAME));
+                System.out.print(summaryList.get(i).get(LOCALE_NAME));
                 System.out.print(FS);
-                System.out.print(entry.get(UNICODE_START_END));
+                System.out.print(summaryList.get(i).get(UNICODE_START_END));
                 System.out.print(FS);
-                System.out.print(entry.get(CODE_POINT_START_END));
+                System.out.print(summaryList.get(i).get(CODE_POINT_START_END));
             }
             System.out.println();
         }
