@@ -131,8 +131,6 @@ public class App {
                 System.out.print(FS);
                 System.out.print(summaryList.get(i).get(PATTERN_CLASS));
                 System.out.print(FS);
-                System.out.print(summaryList.get(i).get(LOCALE_NAME));
-                System.out.print(FS);
                 System.out.print(summaryList.get(i).get(UNICODE_START_END));
                 System.out.print(FS);
                 System.out.print(summaryList.get(i).get(CODE_POINT_START_END));
